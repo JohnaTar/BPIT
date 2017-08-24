@@ -150,7 +150,7 @@
 
         <!-- Marketing Icons Section -->
      
-            <div class="row" >
+            <div class="row spanish" >
             <div class="col-lg-12">
                 <h1 class="page-header">
                     บริการของเรา
@@ -168,7 +168,8 @@
                             </div>
                         </div>
                         <div class="grid__item-caption">
-                            <h3 class="grid__item-title"><i class="fa fa-search" aria-hidden="true"></i> บริการสรรหาบุคลากร</h3>
+                            <h3 class="grid__item-title "><i class="fa fa-search " aria-hidden="true"></i> บริการสรรหาพนักงานประจำ</h3>
+
                           
                         </div>
                     </a>
@@ -233,20 +234,135 @@
                           
                         </div>
                     </a>
+                       <a href="{{ url('business_consulting')}}" class="grid__item grid__item--c1">
+                        <div class="stack">
+                            <div class="stack__deco"></div>
+                            <div class="stack__deco"></div>
+                            <div class="stack__deco"></div>
+                            <div class="stack__deco"></div>
+                            <div class="stack__figure">
+                                <img class="stack__img" src="panel/img/6.png" alt="Image"/>
+                            </div>
+                        </div>
+                        <div class="grid__item-caption">
+                            <h3 class="grid__item-title"><i class="fa fa-pie-chart " aria-hidden="true"></i>  บริการให้คำปรึกษา HR และธุรกิจ </h3>
+                          
+                        </div>
+                    </a>
 
                 </div>
                 </div>
-        
+       <!-- ################### english#########################3 -->
 
+<div class="row english" >
+            <div class="col-lg-12">
+                <h1 class="page-header">
+                    Our Services
+                </h1>
+            </div>
+            <div class="grid grid--effect-vega">
+                    <a href="{{ url('executive_search')}}" class="grid__item grid__item--c1">
+                        <div class="stack">
+                            <div class="stack__deco"></div>
+                            <div class="stack__deco"></div>
+                            <div class="stack__deco"></div>
+                            <div class="stack__deco"></div>
+                            <div class="stack__figure">
+                                <img class="stack__img" src="panel/img/1.png" alt="Image"/>
+                            </div>
+                        </div>
+                        <div class="grid__item-caption">
+                            <h3 class="grid__item-title"><i class="fa fa-search" aria-hidden="true"></i> Recuitment Search</h3>
+                          
+                        </div>
+                    </a>
+                    <a href="{{ url('staff_outsourcing')}}" class="grid__item grid__item--c2">
+                        <div class="stack">
+                            <div class="stack__deco"></div>
+                            <div class="stack__deco"></div>
+                            <div class="stack__deco"></div>
+                            <div class="stack__deco"></div>
+                            <div class="stack__figure">
+                                <img class="stack__img" src="panel/img/2.png" alt="Image"/>
+                            </div>
+                        </div>
+                        <div class="grid__item-caption">
+                            <h3 class="grid__item-title"><i class="fa fa-user-plus" aria-hidden="true"></i> Staff & Labor Outsourcing</h3>
+                          
+                        </div>
+                    </a>
 
+                    <a href="{{ url('payrolling_service')}}" class="grid__item grid__item--c3">
+                        <div class="stack">
+                            <div class="stack__deco"></div>
+                            <div class="stack__deco"></div>
+                            <div class="stack__deco"></div>
+                            <div class="stack__deco"></div>
+                            <div class="stack__figure">
+                                <img class="stack__img" src="panel/img/3.png" alt="Image"/>
+                            </div>
+                        </div>
+                        <div class="grid__item-caption">
+                            <h3 class="grid__item-title"><i class="fa fa-credit-card" aria-hidden="true"></i> Payrolling Outsourcing</h3>
+                            
+                        </div>
+                    </a>
+                      <a href="{{ url('inhouse_training')}}" class="grid__item grid__item--c1">
+                        <div class="stack">
+                            <div class="stack__deco"></div>
+                            <div class="stack__deco"></div>
+                            <div class="stack__deco"></div>
+                            <div class="stack__deco"></div>
+                            <div class="stack__figure">
+                                <img class="stack__img" src="panel/img/4.png" alt="Image"/>
+                            </div>
+                        </div>
+                        <div class="grid__item-caption">
+                            <h3 class="grid__item-title"><i class="fa fa-users" aria-hidden="true"></i> In-house Training</h3>
+                         
+                        </div>
+                    </a>
+                      <a href="{{ url('accounting')}}" class="grid__item grid__item--c1">
+                        <div class="stack">
+                            <div class="stack__deco"></div>
+                            <div class="stack__deco"></div>
+                            <div class="stack__deco"></div>
+                            <div class="stack__deco"></div>
+                            <div class="stack__figure">
+                                <img class="stack__img" src="panel/img/5.png" alt="Image"/>
+                            </div>
+                        </div>
+                        <div class="grid__item-caption">
+                            <h3 class="grid__item-title"><i class="fa fa-calculator" aria-hidden="true"></i>  Accounting Service</h3>
+                          
+                        </div>
+                    </a>
+                      <a href="{{ url('business_consulting')}}" class="grid__item grid__item--c1">
+                        <div class="stack">
+                            <div class="stack__deco"></div>
+                            <div class="stack__deco"></div>
+                            <div class="stack__deco"></div>
+                            <div class="stack__deco"></div>
+                            <div class="stack__figure">
+                                <img class="stack__img" src="panel/img/6.png" alt="Image"/>
+                            </div>
+                        </div>
+                        <div class="grid__item-caption">
+                            <h3 class="grid__item-title"><i class="fa fa-pie-chart " aria-hidden="true"></i>  HR & Business Consulting </h3>
+                          
+                        </div>
+                    </a>
+
+                </div>
+                </div>
     
         <!-- /.row -->
 
 
         <!-- Portfolio Section -->
-        <div class="row">
+        <div class="row spanish">
             <div class="col-lg-12">
-                <h2 class="page-header">พนักงานของเรา</h2>
+                <h2 class="page-header">พนักงานเอ้าท์ซอร์สของเรา</h2>
             </div>
             <div class="col-md-4 col-sm-6">
                 <a href="{{url('staff_outsourcing')}}">
@@ -280,11 +396,47 @@
             </div>
         </div>
         <!-- /.row -->
+        <!-- #########################english ############################-->
+         <div class="row english">
+            <div class="col-lg-12">
+                <h2 class="page-header">Our Outsourced Staff</h2>
+            </div>
+            <div class="col-md-4 col-sm-6">
+                <a href="{{url('staff_outsourcing')}}">
+                    <img class="img-responsive img-portfolio img-hover" src="images/driver.jpg" alt="">
+                </a>
+            </div>
+            <div class="col-md-4 col-sm-6">
+                <a href="{{url('staff_outsourcing')}}">
+                    <img class="img-responsive img-portfolio img-hover" src="images/messenger.jpg" alt="">
+                </a>
+            </div>
+            <div class="col-md-4 col-sm-6">
+                <a href="{{url('staff_outsourcing')}}">
+                    <img class="img-responsive img-portfolio img-hover" src="images/callphone.jpg" alt="">
+                </a>
+            </div>
+            <div class="col-md-4 col-sm-6">
+                <a href="{{url('staff_outsourcing')}}">
+                    <img class="img-responsive img-portfolio img-hover" src="images/scanfinger.jpg" alt="">
+                </a>
+            </div>
+            <div class="col-md-4 col-sm-6">
+                <a href="{{url('staff_outsourcing')}}">
+                    <img class="img-responsive img-portfolio img-hover" src="images/dowork2.jpg" alt="">
+                </a>
+            </div>
+            <div class="col-md-4 col-sm-6">
+                <a href="{{url('staff_outsourcing')}}">
+                    <img class="img-responsive img-portfolio img-hover" src="images/dowork.jpg" alt="">
+                </a>
+            </div>
+        </div>
 <hr>
       <div class="row">
           <div class="col-md-12 text-center ">
         <h1>
-  <div style="color:rgb(66,165,245);" class="typewrite" data-period="2000" data-type='[ "BPIT Holdings Co,.Ltd", "Executive Search", "Staff & Labor Outsourcing", "Training" ,"Payroll Outsourcing","Bangkok : 02-434-3195-7","Pattaya : 038-416-975-7","Chonburi : 038-458-925-6"]'>
+  <div style="color:rgb(66,165,245);" class="typewrite" data-period="2000" data-type='[ "BPIT Holdings Co,.Ltd", "Recuitment Search", "Staff & Labor Outsourcing", "Training" ,"Payroll Outsourcing","Bangkok : 02-434-3195-7","Pattaya : 038-416-975-7","Chonburi : 038-458-925-6"]'>
     <span class="wrap"></span>
 </div>
 </h1>
@@ -352,11 +504,11 @@ var TxtType = function(el, toRotate, period) {
 <hr>
         <!-- Features Section -->
         <div class="row">
-        <section id="portfolio" class="bg-light-gray">
+        <section id="portfolio" class="bg-light-gray spanish">
             <div class="col-md-9">
               <div class="panel panel-success">
-                        <div class="panel-heading">
-                        <i class="fa fa-bell fa-fw"></i>    สาระน่ารู้
+                        <div class="panel-heading ">
+                        <i class="fa fa-bell fa-fw spanish"></i>    สาระน่ารู้
                         </div>
                            <div class="panel-body">
                             <div class="row">
@@ -453,7 +605,109 @@ var TxtType = function(el, toRotate, period) {
             
             </div>
             
-            </section>
+            </section >
+            <section id="portfolio" class="bg-light-gray english">
+            <div class="col-md-9">
+              <div class="panel panel-success">
+                        <div class="panel-heading ">
+                        <i class="fa fa-bell fa-fw spanish"></i>  NEWS & Knowledge
+                        </div>
+                           <div class="panel-body">
+                            <div class="row">
+                <div class="col-md-4 col-sm-6 portfolio-item">
+                    <a href="http://www.mol.go.th/employer/duty" class="portfolio-link" >
+                        <div class="portfolio-hover">
+                            <div class="portfolio-hover-content">
+                                <i class="fa fa-plus fa-3x"></i>
+                            </div>
+                        </div>
+                        <img src="images/sara/sara1.png" class="img-responsive" alt="">
+                    </a>
+                    <div class="portfolio-caption">
+                        <h4>สิทธินายจ้าง ลูกจ้าง</h4>
+                     <!--    <p class="text-muted">Graphic Design</p> -->
+                    </div>
+                </div>
+                <div class="col-md-4 col-sm-6 portfolio-item">
+                    <a href="http://www.mol.go.th/employee/Welfare_workers" class="portfolio-link" data-toggle="modal">
+                        <div class="portfolio-hover">
+                            <div class="portfolio-hover-content">
+                                <i class="fa fa-plus fa-3x"></i>
+                            </div>
+                        </div>
+                        <img src="images/sara/sara2.png" class="img-responsive" alt="">
+                    </a>
+                    <div class="portfolio-caption">
+                        <h4>สวัสดิการแรงงาน</h4>
+                    
+                    </div>
+                </div>
+                <div class="col-md-4 col-sm-6 portfolio-item">
+                    <a href="http://www.oshthai.org/index.php?option=com_content&view=category&id=13&Itemid=205" class="portfolio-link" data-toggle="modal">
+                        <div class="portfolio-hover">
+                            <div class="portfolio-hover-content">
+                                <i class="fa fa-plus fa-3x"></i>
+                            </div>
+                        </div>
+                        <img src="images/sara/sara3.png" class="img-responsive" alt="">
+                    </a>
+                    <div class="portfolio-caption">
+                        <h4>โรคที่เกิดจากการทำงาน</h4>
+                     
+                    </div>
+                </div>
+                <div class="col-md-4 col-sm-6 portfolio-item">
+                    <a href="http://www.oshthai.org/index.php?option=com_content&view=article&id=562:-5-2560-23-2560-&catid=1:news-thai" class="portfolio-link" data-toggle="modal">
+                        <div class="portfolio-hover">
+                            <div class="portfolio-hover-content">
+                                <i class="fa fa-plus fa-3x"></i>
+                            </div>
+                        </div>
+                        <img src="images/sara/sara4.png" class="img-responsive" alt="">
+                    </a>
+                    <div class="portfolio-caption">
+                        <h4>พ.ร.บ. คุ้มครองแรงงาน 2560</h4>
+                       
+                    </div>
+                </div>
+                <div class="col-md-4 col-sm-6 portfolio-item">
+                    <a href="http://ssolife.com/" class="portfolio-link" data-toggle="modal">
+                        <div class="portfolio-hover">
+                            <div class="portfolio-hover-content">
+                                <i class="fa fa-plus fa-3x"></i>
+                            </div>
+                        </div>
+                        <img src="images/sara/sara5.png" class="img-responsive" alt="">
+                    </a>
+                    <div class="portfolio-caption">
+                        <h4>SSO Life</h4>
+                              <p class="text-muted">โดย สำนักงานประกันสังคม</p>
+                     
+                    </div>
+                </div>
+                <div class="col-md-4 col-sm-6 portfolio-item">
+                    <a href="http://lb.mol.go.th/main.php?filename=index" class="portfolio-link" data-toggle="modal">
+                        <div class="portfolio-hover">
+                            <div class="portfolio-hover-content">
+                                <i class="fa fa-plus fa-3x"></i>
+                            </div>
+                        </div>
+                        <img src="images/sara/sara6.png" class="img-responsive" alt="">
+                    </a>
+                    <div class="portfolio-caption">
+                        <h4>บริการประชาชน</h4>
+                           <p class="text-muted">โดย กระทรวงแรงงาน</p>
+                       
+                    </div>
+                </div>
+            </div>
+                            </div>
+
+              </div>
+            
+            </div>
+            
+            </section >
             <div class="col-md-3 ">
              <div class="panel panel-success">
                         <div class="panel-heading">
@@ -527,7 +781,7 @@ var TxtType = function(el, toRotate, period) {
                 <div class="panel panel-primary"  >
                         <div class="panel-heading">
                        
-                     <i class="fa fa-thumb-tack" aria-hidden="true"></i>   ตำแหน่งงาน
+                     <i class="fa fa-thumb-tack" aria-hidden="true"></i>   ตำแหน่งงานว่าง
                 
                         </div>
                         <div class="panel-body">
@@ -604,6 +858,9 @@ var TxtType = function(el, toRotate, period) {
        </div>
 
         <hr>
+        
+
+
         <script>(function(d, s, id) {
                 var js, fjs = d.getElementsByTagName(s)[0];
                 if (d.getElementById(id)) return;

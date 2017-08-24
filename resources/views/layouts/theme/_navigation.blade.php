@@ -1,4 +1,5 @@
-<nav class="navbar navbar-default navbar-fixed-top" role="navigation"  >
+
+<nav class="navbar navbar-default navbar-fixed-top " role="navigation"  >
         <div class="container">
             <!-- Brand and toggle get grouped for better mobile display -->
             <div class="navbar-header">
@@ -10,20 +11,35 @@
                 </button>
                   
                 <a> <img src="images/logo.png" > </a>
+                <div class="spanish">
                       <a href="{{url('home')}}">บริษัท บีพีไอที โฮลดิ้งส์ จำกัด</a>
-          
+               </div>
+                 <div class="english">
+                      <a href="{{url('home')}}">BPIT Holdings Co.,Ltd</a>
+               </div>
             </div>
             <!-- Collect the nav links, forms, and other content for toggling -->
             <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
                 <ul class="nav navbar-nav navbar-right">
-                     <li>
-                        <a href="{{ url('home')}}">หน้าแรก</a>
+                     <li class="spanish">
+                        <a href="{{ url('home')}}" >หน้าแรก</a>
                     </li>
-                    <li>
+                    <li class="english">
+                        <a href="{{ url('home')}}" >Home</a>
+                    </li>
+
+                    <li class="spanish">
                         <a href="{{ url('company_overview')}}">ประวัติบริษัท</a>
                     </li>
-                    <li>
+                     <li class="english">
+                        <a href="{{ url('company_overview')}}">Company Overview</a>
+                    </li>
+
+                    <li class="spanish">
                         <a href="{{url('profile_A.rungnikorn')}}">ประวัติ อ.รุ่งนิกร</a>
+                    </li>
+                     <li class="english">
+                        <a href="{{url('profile_A.rungnikorn')}}">Profile of Ajarn Rungnikorn</a>
                     </li>
                     <!--  <li>
                         <a href="contact.html">ตำแหน่งงาน</a>
@@ -31,11 +47,11 @@
                      <li>
                         <a href="{{url('login')}}">ฝากประวัติ</a>
                     </li> -->
-                    <li class="dropdown">
+                    <li class="dropdown spanish">
                         <a href="#" class="dropdown-toggle" data-toggle="dropdown">บริการของเรา <b class="caret"></b></a>
                         <ul class="dropdown-menu">
                             <li>
-                                <a href="{{ url('executive_search')}}">บริการสรรหาหัวหน้างาน-ผู้บริหาร</a>
+                                <a href="{{ url('executive_search')}}">บริการสรรหาพนักงานประจำ</a>
                             </li>
                             <li>
                                 <a href="{{url('/staff_outsourcing')}}">บริการเอาท์ซอร์สพนักงานและแรงงาน</a>
@@ -46,18 +62,69 @@
                             <li>
                                 <a href="{{url('payrolling_service')}}">บริการจัดทำเงินเดือน</a>
                             </li>
+                             <li>
+                                <a href="{{url('business_consulting')}}">บริการให้คำปรึกษาระบบ HR และธุรกิจ</a>
+                            </li>
                             <li>
                                 <a href="{{url('accounting')}}">บริการจัดทำบัญชี</a>
                             </li>
                         </ul>
                     </li>
-                   <li>
+                     <li class="dropdown english">
+                        <a href="#" class="dropdown-toggle" data-toggle="dropdown">Our Services <b class="caret"></b></a>
+                        <ul class="dropdown-menu">
+                            <li>
+                                <a href="{{ url('executive_search')}}">Recuitment Search</a>
+                            </li>
+                            <li>
+                                <a href="{{url('/staff_outsourcing')}}">Staff & Labor Outsourcing</a>
+                            </li>
+                            <li>
+                                <a href="{{url('/inhouse_training')}}">In-house Training</a>
+                            </li>
+                            <li>
+                                <a href="{{url('payrolling_service')}}">Payrolling Outsourcing</a>
+                            </li>
+                              <li>
+                                <a href="{{url('business_consulting')}}">HR & Business Consulting</a>
+                            </li>
+                            <li>
+                                <a href="{{url('accounting')}}">Accounting Service</a>
+                            </li>
+                        </ul>
+                    </li>
+                   <!-- <li>
+                        <a href="{{url('activities')}}">กิจกรรมของเรา</a>
+                    </li> -->
+                    <li class="spanish">
                         <a href="{{url('contact')}}">ติดต่อเรา</a>
                     </li>
-                     <li>
+                       <li class="english">
+                        <a href="{{url('contact')}}">Contact Us</a>
+                    </li>
+                   
+                     <li class="spanish">
                         <a href="{{url('credit')}}">เครดิต</a>
                     </li>
-                         
+                            <li class="english">
+                        <a href="{{url('credit')}}">Credit</a>
+                    </li>
+            <li><a>Language</a></li>
+                     
+                        <li style="padding-top: 10px">
+             
+  <div class="language">
+
+  <select id="select" class="form-control input-md">
+
+
+        <option id="spanish" value="spanish">Thai</option>
+       <option id="english" value="english">English</option>
+
+  </select>
+  </div>
+                    </li>
+                      
    <!--      
            <li class="dropdown">
           <a href="#" class="dropdown-toggle" data-toggle="dropdown">เข้าสู่ระบบ<span class="caret"></span></a>
@@ -114,3 +181,27 @@
         </div>
         <!-- /.container -->
     </nav>
+    
+
+
+
+    
+
+            </div>
+            <!-- /.navbar-collapse -->
+        </div>
+        <!-- /.container -->
+    </nav>
+
+<!--  english -->
+
+
+
+    
+
+            </div>
+            <!-- /.navbar-collapse -->
+        </div>
+        <!-- /.container -->
+    </nav>
+</div>

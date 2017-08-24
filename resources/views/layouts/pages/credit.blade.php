@@ -3,7 +3,7 @@
  <div class="container">
 
         <!-- Page Heading/Breadcrumbs -->
-        <div class="row">
+        <div class="row spanish">
             <div class="col-lg-12">
                 <h1 class="page-header">เครดิต  
                     <small>Open Source Library</small>
@@ -12,6 +12,18 @@
                     <li><a href="{{url('home')}}">หน้าแรก</a>
                     </li>
                     <li class="active">เครดิต  Open Source Library</li>
+                </ol>
+            </div>
+        </div>
+        <div class="row english">
+            <div class="col-lg-12">
+                <h1 class="page-header">Credit
+                    <small>Open Source Library</small>
+                </h1>
+                <ol class="breadcrumb">
+                    <li><a href="{{url('home')}}">Home</a>
+                    </li>
+                    <li class="active">credit  Open Source Library</li>
                 </ol>
             </div>
         </div>
@@ -33,12 +45,14 @@
                                 <hr>
                                 Licensed under the MIT license
                                 </div>
-                                 <div class="col-md-4">
-                                <h3>jQuery </h3>
-                                <p>http://jquery.com </p>
-                                <p>Copyright jQuery Foundation and other contributors, </p>
-                                <p>https://jquery.org/</p>
+                                <div class="col-md-4">
+                                <h3>Template </h3>
+                                <p>https://github.com/blackrockdigital </p>
+                                <p>https://startbootstrap.com/</p>
+                                <hr>
+                                Licensed under the MIT license
                                 </div>
+                              
                                  <div class="col-md-4">
                                 <h3>Bootstrap </h3>
                                 <p>https://github.com/twbs/bootstrap </p>
@@ -58,12 +72,18 @@
                                 <hr>
                                 Licensed under the MIT license
                                 </div>
-                                <div class="col-md-4">
-                                <h3>Template </h3>
-                                <p>https://github.com/blackrockdigital </p>
-                                <p>https://startbootstrap.com/</p>
+                                   <div class="col-md-4">
+                                <h3>jQuery </h3>
+                                <p>http://jquery.com </p>
+                                <p>Copyright jQuery Foundation and other contributors, </p>
+                                <p>https://jquery.org/</p>
+                                </div>
+                                 <div class="col-md-4">
+                                <h3>Image </h3>
+                                <p>https://pixabay.com </p>
+                       
                                 <hr>
-                                Licensed under the MIT license
+                            
                                 </div>
                                  
                           
@@ -92,6 +112,7 @@
 
        
         <!-- /.row -->
+
 
         <hr>
         

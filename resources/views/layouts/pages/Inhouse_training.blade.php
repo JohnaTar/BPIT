@@ -1,9 +1,12 @@
 @extends('layouts.master')
 @section('content')
+<style type="text/css">
+    
+</style>
  <div class="container">
 
         <!-- Page Heading/Breadcrumbs -->
-        <div class="row">
+        <div class="row spanish">
             <div class="col-lg-12">
                 <h1 class="page-header">บริการจัดฝึกอบรมภายในองค์กร
                     
@@ -15,17 +18,29 @@
                 </ol>
             </div>
         </div>
+           <div class="row english">
+            <div class="col-lg-12">
+                <h1 class="page-header">In-house Training
+                    
+                </h1>
+                <ol class="breadcrumb">
+                    <li><a href="{{url('home')}}">Home</a>
+                    </li>
+                    <li class="active">In-house Training</li>
+                </ol>
+            </div>
+        </div>
         <!-- /.row -->
 
         <!-- Image Header -->
-        <div class="row">
+       <div class="row">
             <div class="col-lg-12">
                 <img class="img-responsive" src="images/output.jpg" alt="">
             </div>
         </div>
         <!-- /.row -->
-
-         <div class="row">
+        <hr>
+         <div class="row spanish">
             <div class="col-lg-12">
                 <h2 class="page-heade">บริษัท บีพีไอที โฮลดิ้งส์ จำกัด (BPIT) </h2>
             </div>
@@ -116,14 +131,107 @@
 
         </div>
        
+   <div class="row english">
+            <div class="col-lg-12">
+                <h2 class="page-heade">BPIT holdings Co.,Ltd </h2>
+            </div>
+            <div class="col-md-6">
+              
+                <p>BPIT  has been an accurate hands-on training provider for almost 10 years and has worked with all major industries. We try our best to support our clients’ business objectives. Training staffs, keeping them motivated and up-to-date with the industry trends, new management tools and new technologies are essential to achieving your business goals.
+Research shows that productivity increases while training takes place. Staff who obtains formal training can be 230% more productive than untrained colleagues who are working in the same roll </p>
+                  <p> <i class="fa fa-check fa-2x" aria-hidden="true" style="color:#5cb85c;"></i> : <strong>Why us? </strong></p>
+                <ul>
+                    <li><strong>Cheaper Fee </strong>while maintaining international standard processes and quality
+                    </li>
+                    <li>Has been in Training business for almost 10 years</li>
+                    <li>Has worked with numerous industries
+</li>
+                    <li>
+Can provide services when and where you want</li>
+                    <li>Can provide you and your staff with ongoing support</li>
+              
+                </ul>
+                 <p> <i class="fa fa-check fa-2x" aria-hidden="true" style="color:#5cb85c;"></i> : <strong>Our Services
 
+</strong></p>
+                <ul>
+                    <li>Assessing Training Needs (identifying both business needs and employee needs)  
+                    </li>
+                    <li>Establishing Annual Training Plan</li>
+                    <li>Establishing Competency Standard of all staff levels
+
+</li>
+                    <li>
+Skills Assessment of your staffs (to find gap between current skills & knowledge and sets of competency standard)</li>
+                    <li>n-house Training Courses</li>
+              
+                </ul>
+            </div>
+            <div class="col-md-6">
+                  <div id="carousel-example-generic" class="carousel slide" data-ride="carousel">
+                    <!-- Indicators -->
+                    <ol class="carousel-indicators">
+                        <li data-target="#carousel-example-generic" data-slide-to="0" class="active"></li>
+                        <li data-target="#carousel-example-generic" data-slide-to="1"></li>
+                        <li data-target="#carousel-example-generic" data-slide-to="2"></li>
+                        <li data-target="#carousel-example-generic" data-slide-to="3"></li>
+                          <li data-target="#carousel-example-generic" data-slide-to="4"></li>
+                            <li data-target="#carousel-example-generic" data-slide-to="5"></li>
+                              <li data-target="#carousel-example-generic" data-slide-to="6"></li>
+                              <li data-target="#carousel-example-generic" data-slide-to="7"></li>
+                    </ol>
+
+                    <!-- Wrapper for slides -->
+                    <div class="carousel-inner">
+                        <div class="item active">
+                            <img class="img-responsive" src="images/training/tr1.png" alt="">
+                        </div>
+                        <div class="item">
+                            <img class="img-responsive" src="images/training/tr2.png" alt="">
+                        </div>
+                        <div class="item">
+                            <img class="img-responsive" src="images/training/tr3.png" alt="">
+                        </div>
+                           <div class="item">
+                            <img class="img-responsive" src="images/training/tr5.png" alt="">
+                        </div>
+                           <div class="item">
+                            <img class="img-responsive" src="images/training/tr6.png" alt="">
+                        </div>
+                           <div class="item">
+                            <img class="img-responsive" src="images/training/tr7.png" alt="">
+                        </div>
+                           <div class="item">
+                            <img class="img-responsive" src="images/training/tr8.png" alt="">
+                        </div>
+                          <div class="item">
+                            <img class="img-responsive" src="images/training/tr4.png" alt="">
+                        </div>
+                    </div>
+
+
+                    <!-- Controls -->
+                    <a class="left carousel-control" href="#carousel-example-generic" data-slide="prev">
+                        <span class="glyphicon glyphicon-chevron-left"></span>
+                    </a>
+                    <a class="right carousel-control" href="#carousel-example-generic" data-slide="next">
+                        <span class="glyphicon glyphicon-chevron-right"></span>
+                    </a>
+                </div>
+                <center>  <h2>Profile of Ajarn Rungnikorn</h2>
+                 <h2> <a href="{{url('rungnikorn')}}"><i class="fa fa-download" aria-hidden="true"></i></a></h2>
+                 </center>
+            </div>
+
+
+        </div>
 
       
         
 
         <!-- Service List -->
         <!-- The circle icons use Font Awesome's stacked icon classes. For more information, visit http://fontawesome.io/examples/ -->
-        <div class="row">
+        <div class="row spanish">
             <div class="col-lg-12">
                 <h2 class="page-header">หลักสูตรอบรม In-house Training มาตรฐานของ BPIT</h2>
             </div>
@@ -473,6 +581,355 @@
             </div>
         </div>
         <!-- /.row -->
+         <div class="row english">
+            <div class="col-lg-12">
+                <h2 class="page-header">In-house Training Courses of BPIT</h2>
+            </div>
+            <div class="col-md-4">
+                <div class="media">
+                    <div class="pull-left">
+                        <span class="fa-stack fa-2x">
+                              <i class="fa fa-circle fa-stack-2x " style="color:#5cb85e;"></i>
+                              <i class="fa fa-bar-chart fa-stack-1x fa-inverse"></i>
+                        </span> 
+                    </div>
+                    <div class="media-body">
+                        <h4 class="media-heading"> <a href="{{ url('ProfessionalSalesman')}}"><i class="fa fa-download" aria-hidden="true"></i></a></h4>
+                        <p>Professional Salesman</p>
+                        <p>Time Period 1 day</p>
+                    </div>
+                </div>
+                <div class="media">
+                    <div class="pull-left">
+                        <span class="fa-stack fa-2x">
+                           <i class="fa fa-circle fa-stack-2x " style="color:#5cb85e;"></i>
+                              <i class="fa fa-male fa-stack-1x fa-inverse"></i>
+                        </span> 
+                    </div>
+                    <div class="media-body">
+                    <h4 class="media-heading"> <a href="{{url('HRMforNonHRManagers')}}"><i class="fa fa-download" aria-hidden="true"></i></a> </h4>
+                        <p> HR Management for Non-HR Managers </p>
+                                 <p>Time Period 1 day</p>
+                    </div>
+                </div>
+                <div class="media">
+                    <div class="pull-left">
+                        <span class="fa-stack fa-2x">
+                           <i class="fa fa-circle fa-stack-2x " style="color:#5cb85e;"></i>
+                              <i class="fa fa-users fa-stack-1x fa-inverse"></i>
+                        </span> 
+                    </div>
+                    <div class="media-body">
+                    <h4 class="media-heading"> <a href="{{url('EnhanceLeadershipbyGroupActivities')}}"><i class="fa fa-download" aria-hidden="true"></i></a></h4>
+                        <p>Enhancing Leadership Skills by Group Activities </p>
+                                                <p>Time Period 1 day</p>
+                    </div>
+                </div>
+                <div class="media">
+                    <div class="pull-left">
+                        <span class="fa-stack fa-2x">
+                           <i class="fa fa-circle fa-stack-2x " style="color:#5cb85e;"></i>
+                              <i class="fa fa-eercast fa-stack-1x fa-inverse"></i>
+                        </span> 
+                    </div>
+                    <div class="media-body">
+                    <h4 class="media-heading"> <a href="{{url('Enhance_Leadership')}}"><i class="fa fa-download" aria-hidden="true"></i></a></h4>
+                        <p>Enhancing Leadership Skills for Supervisors/ Managers/ Executives </p>
+                                                <p>Time Period 1 day</p>
+                    </div>
+                </div>
+                <div class="media">
+                    <div class="pull-left">
+                        <span class="fa-stack fa-2x">
+                           <i class="fa fa-circle fa-stack-2x " style="color:#5cb85e;"></i>
+                              <i class="fa fa-pencil fa-stack-1x fa-inverse"></i>
+                        </span> 
+                    </div>
+                    <div class="media-body">
+                    <h4 class="media-heading"> <a href="{{url('WorkshopEffectiveBusinessWriting')}}"><i class="fa fa-download" aria-hidden="true"></i></a></h4>
+                        <p> Workshop - Effective Business Writing</p>
+                                        <p>Time Period 1 day</p>
+                    </div>
+                </div>
+                <div class="media">
+                    <div class="pull-left">
+                        <span class="fa-stack fa-2x">
+                           <i class="fa fa-circle fa-stack-2x " style="color:#5cb85e;"></i>
+                              <i class="fa fa-file-word-o fa-stack-1x fa-inverse"></i>
+                        </span> 
+                    </div>
+                    <div class="media-body">
+                    <h4 class="media-heading"> <a href="{{url('WorkshopTraintheTrainer')}}"><i class="fa fa-download" aria-hidden="true"></i></a></h4>
+                        <p>Workshop - Train the Trainer in Manufacturing Industry </p>
+                                          <p>Time Period 1 day</p>
+                    </div>
+                </div>
+
+                <div class="media">
+                    <div class="pull-left">
+                        <span class="fa-stack fa-2x">
+                           <i class="fa fa-circle fa-stack-2x " style="color:#5cb85e;"></i>
+                              <i class="fa fa-file-word-o fa-stack-1x fa-inverse"></i>
+                        </span> 
+                    </div>
+                    <div class="media-body">
+                    <h4 class="media-heading"> <a href="{{url('WorkshopTraintheTrainer2days')}}"><i class="fa fa-download" aria-hidden="true"></i></a></h4>
+                        <p>Workshop - Train the Trainer in Manufacturing Industry </p>
+                                              <p>Time Period 2 days</p>
+                    </div>
+                </div>
+
+                <div class="media">
+                    <div class="pull-left">
+                        <span class="fa-stack fa-2x">
+                           <i class="fa fa-circle fa-stack-2x " style="color:#5cb85e;"></i>
+                              <i class="fa fa-briefcase fa-stack-1x fa-inverse"></i>
+                        </span> 
+                    </div>
+                    <div class="media-body">
+                    <h4 class="media-heading"> <a href="{{url('JobCoachinginMentoringStyle')}}"><i class="fa fa-download" aria-hidden="true"></i></a></h4>
+                        <p>Job Coaching in Mentoring Style</p>
+                                                <p>Time Period 2 days</p>
+                    </div>
+                </div>
+                 <div class="media">
+                    <div class="pull-left">
+                        <span class="fa-stack fa-2x">
+                           <i class="fa fa-circle fa-stack-2x " style="color:#5cb85e;"></i>
+                              <i class="fa fa-commenting fa-stack-1x fa-inverse"></i>
+                        </span> 
+                    </div>
+                    <div class="media-body">
+                    <h4 class="media-heading"> <a href="{{url('WorkshopJobAssignmentTechniques')}}"><i class="fa fa-download" aria-hidden="true"></i></a></h4>
+                        <p>Workshop - Job Assignment Techniques</p>
+                                                <p>Time Period 2 days</p>
+                    </div>
+                </div>
+
+
+            </div><!-- 
+            #####################row 2 ############################ -->
+            <div class="col-md-4">
+                <div class="media">
+                    <div class="pull-left">
+                        <span class="fa-stack fa-2x">
+                              <i class="fa fa-circle fa-stack-2x " style="color:#5cb85e;"></i>
+                              <i class="fa fa-bar-chart fa-stack-1x fa-inverse"></i>
+                        </span> 
+                    </div>
+                    <div class="media-body">
+                        <h4 class="media-heading"> <a href="{{url('WalkRally')}}"><i class="fa fa-download" aria-hidden="true"></i></a></h4>
+                        <p>Walk Rally</p>
+                                 <p>Time Period 2 days</p>
+                    </div>
+                </div>
+                <div class="media">
+                    <div class="pull-left">
+                        <span class="fa-stack fa-2x">
+                           <i class="fa fa-circle fa-stack-2x " style="color:#5cb85e;"></i>
+                              <i class="fa fa-users fa-stack-1x fa-inverse"></i>
+                        </span> 
+                    </div>
+                    <div class="media-body">
+                    <h4 class="media-heading"> <a href="{{ url('TeamBuildingbyGroupActivities')}}"><i class="fa fa-download" aria-hidden="true"></i></a> </h4>
+                        <p>Team Building by Group Activitiesม</p>
+                                 <p>Time Period 2 days</p>
+                    </div>
+                </div>
+                <div class="media">
+                    <div class="pull-left">
+                        <span class="fa-stack fa-2x">
+                           <i class="fa fa-circle fa-stack-2x " style="color:#5cb85e;"></i>
+                              <i class="fa fa-file-word-o fa-stack-1x fa-inverse"></i>
+                        </span> 
+                    </div>
+                    <div class="media-body">
+                    <h4 class="media-heading"> <a href="{{url('WorkshopSetKPIsTarget')}}"><i class="fa fa-download" aria-hidden="true"></i></a></h4>
+                        <p>Workshop - Set KPIs Target of Each Working Unit in Organization   </p>
+                                               <p>Time Period 2 days</p>
+                    </div>
+                </div>
+                <div class="media">
+                    <div class="pull-left">
+                        <span class="fa-stack fa-2x">
+                           <i class="fa fa-circle fa-stack-2x " style="color:#5cb85e;"></i>
+                              <i class="fa fa-file-word-o fa-stack-1x fa-inverse"></i>
+                        </span> 
+                    </div>
+                    <div class="media-body">
+                    <h4 class="media-heading"> <a href="{{url('WorkshopBusinessPlanbasedonMBO')}}"><i class="fa fa-download" aria-hidden="true"></i></a></h4>
+                        <p>Workshop - Business Plan based on MBO Technique (MBO - Management by Objectives)</p>
+                                                <p>Time Period 1 day</p>
+                    </div>
+                </div>
+                <div class="media">
+                    <div class="pull-left">
+                        <span class="fa-stack fa-2x">
+                           <i class="fa fa-circle fa-stack-2x " style="color:#5cb85e;"></i>
+                              <i class="fa fa-file-word-o fa-stack-1x fa-inverse"></i>
+                        </span> 
+                    </div>
+                    <div class="media-body">
+                    <h4 class="media-heading"> <a href="{{url('WorkshopActionPlan')}}"><i class="fa fa-download" aria-hidden="true"></i></a></h4>
+                        <p> Workshop - Action Plan</p>
+                                                <p>Time Period 1 day</p>
+                    </div>
+                </div>
+                <div class="media">
+                    <div class="pull-left">
+                        <span class="fa-stack fa-2x">
+                           <i class="fa fa-circle fa-stack-2x " style="color:#5cb85e;"></i>
+                              <i class="fa fa-suitcase fa-stack-1x fa-inverse"></i>
+                        </span> 
+                    </div>
+                    <div class="media-body">
+                    <h4 class="media-heading"> <a href="{{url('BasicofCostsReduction')}}"><i class="fa fa-download" aria-hidden="true"></i></a></h4>
+                        <p>5S Basic Tool of Quality Management </p>
+                                                <p>Time Period 1 day</p>
+                    </div>
+                </div>
+
+                <div class="media">
+                    <div class="pull-left">
+                        <span class="fa-stack fa-2x">
+                           <i class="fa fa-circle fa-stack-2x " style="color:#5cb85e;"></i>
+                              <i class="fa fa-file-word-o fa-stack-1x fa-inverse"></i>
+                        </span> 
+                    </div>
+                    <div class="media-body">
+                    <h4 class="media-heading"> <a href="{{ url('S5Basic')}}"><i class="fa fa-download" aria-hidden="true"></i></a></h4>
+                        <p>5S Basic Tool of Quality Management </p>
+                                                <p>Time Period 2 days</p>
+                    </div>
+                </div>
+
+                <div class="media">
+                    <div class="pull-left">
+                        <span class="fa-stack fa-2x">
+                           <i class="fa fa-circle fa-stack-2x " style="color:#5cb85e;"></i>
+                              <i class="fa fa-eercast fa-stack-1x fa-inverse"></i>
+                        </span> 
+                    </div>
+                    <div class="media-body">
+                    <h4 class="media-heading"> <a href="{{url('S5AdvancedLevel')}}"><i class="fa fa-download" aria-hidden="true"></i></a></h4>
+                        <p>5S – Advanced Level (Set 5S Area Standards/ Inspection Techniques)</p>
+                                             <p>Time Period 1 day</p>
+                    </div>
+                </div>
+                 
+
+
+            </div>
+            <div class="col-md-4">
+                    <div class="media">
+                    <div class="pull-left">
+                        <span class="fa-stack fa-2x">
+                              <i class="fa fa-circle fa-stack-2x " style="color:#5cb85e;"></i>
+                              <i class="fa fa-clock-o fa-stack-1x fa-inverse"></i>
+                        </span> 
+                    </div>
+                    <div class="media-body">
+                        <h4 class="media-heading"> <a href="{{url('ConstructiveDisciplineManagement')}}"><i class="fa fa-download" aria-hidden="true"></i></a></h4>
+                        <p>Constructive Discipline Management for Executives/ Managers/ Supervisors  </p>
+                               <p>Time Period 1 day</p>
+                    </div>
+                </div>
+                <div class="media">
+                    <div class="pull-left">
+                        <span class="fa-stack fa-2x">
+                           <i class="fa fa-circle fa-stack-2x " style="color:#5cb85e;"></i>
+                              <i class="fa fa-graduation-cap fa-stack-1x fa-inverse"></i>
+                        </span> 
+                    </div>
+                    <div class="media-body">
+                    <h4 class="media-heading"> <a href="{{url('LaborLaws')}}"><i class="fa fa-download" aria-hidden="true"></i></a> </h4>
+                        <p>Labor Laws for Executives/ Managers/ Supervisors  </p>
+                                 <p>Time Period 1 day</p>
+                    </div>
+                </div>
+                <div class="media">
+                    <div class="pull-left">
+                        <span class="fa-stack fa-2x">
+                           <i class="fa fa-circle fa-stack-2x " style="color:#5cb85e;"></i>
+                              <i class="fa fa-archive fa-stack-1x fa-inverse"></i>
+                        </span> 
+                    </div>
+                    <div class="media-body">
+                    <h4 class="media-heading"> <a href="{{url('ProactiveLaborRelations')}}"><i class="fa fa-download" aria-hidden="true"></i></a></h4>
+                        <p> Proactive Labor Relations Management </p>
+                                                <p>Time Period 1 day</p>
+                    </div>
+                </div>
+                <div class="media">
+                    <div class="pull-left">
+                        <span class="fa-stack fa-2x">
+                           <i class="fa fa-circle fa-stack-2x " style="color:#5cb85e;"></i>
+                              <i class="fa fa-file-word-o fa-stack-1x fa-inverse"></i>
+                        </span> 
+                    </div>
+                    <div class="media-body">
+                    <h4 class="media-heading"> <a href="{{url('WorkshopModernSalaryStructure')}}"><i class="fa fa-download" aria-hidden="true"></i></a></h4>
+                        <p>Workshop – Designing a Modern Salary Structure (For Managers – Executives) </p>
+                                                <p>Time Period 1 day</p>
+                    </div>
+                </div>
+                <div class="media">
+                    <div class="pull-left">
+                        <span class="fa-stack fa-2x">
+                           <i class="fa fa-circle fa-stack-2x " style="color:#5cb85e;"></i>
+                              <i class="fa fa-check-circle-o fa-stack-1x fa-inverse"></i>
+                        </span> 
+                    </div>
+                    <div class="media-body">
+                    <h4 class="media-heading"> <a href="{{url('ModernStaffPerformanceManagement')}}"><i class="fa fa-download" aria-hidden="true"></i></a></h4>
+                        <p> Designing a Modern Staff Performance Management </p>
+                                               <p>Time Period 1 day</p>
+                    </div>
+                </div>
+                <div class="media">
+                    <div class="pull-left">
+                        <span class="fa-stack fa-2x">
+                           <i class="fa fa-circle fa-stack-2x " style="color:#5cb85e;"></i>
+                              <i class="fa fa-file-word-o fa-stack-1x fa-inverse"></i>
+                        </span> 
+                    </div>
+                    <div class="media-body">
+                    <h4 class="media-heading"> <a href="{{url('WorkshopWritingJobDescriptions')}}"><i class="fa fa-download" aria-hidden="true"></i></a></h4>
+                        <p>Workshop - Writing Effective Job Descriptions </p>
+                                           <p>Time Period 1 day</p>
+                    </div>
+                </div>
+
+                <div class="media">
+                    <div class="pull-left">
+                        <span class="fa-stack fa-2x">
+                           <i class="fa fa-circle fa-stack-2x " style="color:#5cb85e;"></i>
+                              <i class="fa fa-file-word-o fa-stack-1x fa-inverse"></i>
+                        </span> 
+                    </div>
+                    <div class="media-body">
+                    <h4 class="media-heading"> <a href="{{url('WorkshopHRCompetencySystem')}}"><i class="fa fa-download" aria-hidden="true"></i></a></h4>
+                        <p>Workshop – Designing HR Competency Based Management System</p>
+                                                <p>Time Period 2 days</p>
+                    </div>
+                </div>
+
+                <div class="media">
+                    <div class="pull-left">
+                        <span class="fa-stack fa-2x">
+                           <i class="fa fa-circle fa-stack-2x " style="color:#5cb85e;"></i>
+                              <i class="fa fa-folder-o fa-stack-1x fa-inverse"></i>
+                        </span> 
+                    </div>
+                    <div class="media-body">
+                    <h4 class="media-heading"> <a href="{{url('WorkshopCCandCompetencyDictionary')}}"><i class="fa fa-download" aria-hidden="true"></i></a></h4>
+                        <p>Workshop - Identifying Core Competency and Effective Writing of Competency Dictionary </p>
+                                                <p>Time Period 1 day</p>
+                    </div>
+                </div>
+                
+            </div>
+        </div>
 
         <hr>
 @endsection

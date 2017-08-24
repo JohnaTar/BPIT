@@ -13,6 +13,8 @@
 
 
 Route::get('/','IndexController@index');
+Route::get('/_','IndexController@index2');
+
 Route::get('home','IndexController@home');
 Route::get('company_overview','IndexController@company_overview');
 Route::get('profile_A.rungnikorn','IndexController@profile_rungnikorn');
@@ -21,8 +23,10 @@ Route::get('staff_outsourcing','IndexController@staff_outsourcing');
 Route::get('inhouse_training','IndexController@inhouse_training');
 Route::get('payrolling_service','IndexController@payrolling_service');
 Route::get('accounting','IndexController@account');
+Route::get('business_consulting','IndexController@business_consulting');
 Route::get('contact','IndexController@contact');
 Route::get('credit','IndexController@credit');
+Route::get('activities','IndexController@activities');
 Route::get('facebook','IndexController@facebook');
 #################################################################
 Route::get('register','LoginController@index');

@@ -9,6 +9,9 @@ class IndexController extends Controller
 	public function index(){
 		return view('layouts.pages.index');
 	}
+	public function index2(){
+		return view('layouts.pages.index2');
+	}
 	public function home(){
 		return view('layouts.pages.home');
 	}
@@ -39,8 +42,14 @@ class IndexController extends Controller
 	public function credit(){
 		return view('layouts.pages.credit');
 	}
+	public function activities(){
+		return view('layouts.pages.activities');
+	}
 	public function facebook(){
 		return redirect('https://www.facebook.com/BpitHolding/');
+	}
+	public function business_consulting(){
+		return view('layouts.pages.business_consulting');
 	}
 
 

@@ -3,15 +3,27 @@
 <div class="container">
 
         <!-- Page Heading/Breadcrumbs -->
-        <div class="row">
+        <div class="row spanish">
             <div class="col-lg-12">
-                <h1 class="page-header">บริการสรรหาหัวหน้างาน-ผู้บริหาร
+                <h1 class="page-header">บริการสรรหาพนักงานประจำ
                 <!--     <small>Subheading</small> -->
                 </h1>
                 <ol class="breadcrumb">
                     <li><a href="{{url('home')}}">หน้าแรก</a>
                     </li>
-                    <li class="active">บริการสรรหาหัวหน้างาน-ผู้บริหาร</li>
+                    <li class="active">บริการสรรหาพนักงานประจำ</li>
+                </ol>
+            </div>
+        </div>
+        <div class="row english">
+            <div class="col-lg-12">
+                <h1 class="page-header">Recuitment Service
+                <!--     <small>Subheading</small> -->
+                </h1>
+                <ol class="breadcrumb">
+                    <li><a href="{{url('home')}}">home</a>
+                    </li>
+                    <li class="active">Recuitment Service</li>
                 </ol>
             </div>
         </div>
@@ -56,10 +68,16 @@
                 </div>
                 
             </div>
-            <div class="col-md-7">
-                <h3 ><i class="fa fa-building" aria-hidden="true" style="color:grey;" ></i> : บริษัท บีพีไอที โฮลดิ้งส์ จำกัด  </h3>
-                <h4>(BPIT)</h4>
-                <p> &nbsp;&nbsp;&nbsp;ให้บริการสรรหาพนักงานทุกระดับตั้งแต่พนักงานระดับปฏิบัติการ-ผู้บริหาร โดยเราสามารถดำเนินการต่างๆ ตามที่ลูกค้าแต่ละรายต้องการได้ เพราะเรามีปรัชญายึดหลัก "ลูกค้าเป็นศูนย์กลาง" เรามีพนักงานมืออาชีพที่คอยช่วยลูกค้าในการกำหนดคุณสมบัติที่ชัดเจน-เหมาะสมกับงาน และด้วยประสบการณ์ตรงยาวนานในวิชาชีพ พนักงานของเราจะเรียนรู้และเข้าใจความต้องการของลูกค้า รวมถึงเรื่องต่างๆ เกี่ยวกับธุรกิจของลูกค้าได้อย่างรวดเร็ว ดังนั้น หากท่านใช้บริการของ BPIT แล้วจงมั่นใจว่า นอกจากท่านจะได้ผู้สมัครที่มีทักษะในงานตรงตามต้องการแล้ว เรายังมองไปถึงการคัดเลือกเฉพาะคนที่เห็นว่าเข้ากับองค์กรของท่านได้อีกด้วย</p>
+            <div class="col-md-7 spanish">
+                <h3 ><i class="fa fa-building" aria-hidden="true" style="color:grey;" ></i> : BPIT Holdings Co.,Ltd  </h3>
+               
+                <p> &nbsp;&nbsp;&nbsp; <strong>BPIT </strong>ให้บริการสรรหาพนักงานทุกระดับตั้งแต่พนักงานระดับปฏิบัติการ-ผู้บริหาร โดยเราสามารถดำเนินการต่างๆ ตามที่ลูกค้าแต่ละรายต้องการได้ เพราะเรามีปรัชญายึดหลัก "ลูกค้าเป็นศูนย์กลาง" เรามีพนักงานมืออาชีพที่คอยช่วยลูกค้าในการกำหนดคุณสมบัติที่ชัดเจน-เหมาะสมกับงาน และด้วยประสบการณ์ตรงยาวนานในวิชาชีพ พนักงานของเราจะเรียนรู้และเข้าใจความต้องการของลูกค้า รวมถึงเรื่องต่างๆ เกี่ยวกับธุรกิจของลูกค้าได้อย่างรวดเร็ว ดังนั้น หากท่านใช้บริการของ BPIT แล้วจงมั่นใจว่า นอกจากท่านจะได้ผู้สมัครที่มีทักษะในงานตรงตามต้องการแล้ว เรายังมองไปถึงการคัดเลือกเฉพาะคนที่เห็นว่าเข้ากับองค์กรของท่านได้อีกด้วย</p>
+               <!--  <a class="btn btn-primary" href="portfolio-item.html">View Project</i></a> -->
+            </div>
+              <div class="col-md-7 english">
+                <h3 ><i class="fa fa-building" aria-hidden="true" style="color:grey;" ></i> : BPIT Holdings Co.,Ltd  </h3>
+               
+                <p> <strong>BPIT</strong> is a boutique executive search firm customized the needs of each individual client; we work on concept of “Client as Center”. Our local consultants will help you to develop a specific job specification based on your needs and as their highly experienced they will be quick in understanding your corporate culture and your requirements. So, BPIT ensures to offer the right candidates who are not only qualified technically but also fit in well with client’s organization.</p>
                <!--  <a class="btn btn-primary" href="portfolio-item.html">View Project</i></a> -->
             </div>
         </div>
@@ -69,7 +87,7 @@
 
         <!-- Project Two -->
         <div class="row">
-            <div class="col-md-7">
+            <div class="col-md-7 spanish">
                 <h3><i class="fa fa-check" style="color:green;" aria-hidden="true"></i> : จุดเด่นของเรา</h3>
                 
                 <p>
@@ -95,6 +113,32 @@
                 <h5><i class="fa fa-cogs fa-2x" aria-hidden="true" style="color:#FF9966;"></i> : **ตลอดกระบวนการสรรหาม เราจะสื่อสารให้ผู้สมัครและลูกค้ารับทราบความคืบหน้าอยู่ตลอดเวลา** </h5>
                <!--  <a class="btn btn-primary" href="portfolio-item.html">View Project</i></a> -->
             </div>
+            <div class="col-md-7 english">
+                <h3><i class="fa fa-check" style="color:green;" aria-hidden="true"></i> : Why us?</h3>
+                
+                <p>
+                    <i class="fa fa-check-square-o" aria-hidden="true"></i> : <strong>Specific Searches </strong><br>
+                    <i class="fa fa-check-square-o" aria-hidden="true"></i> : <strong>High success rate</strong> 
+                    <br>
+                     <i class="fa fa-check-square-o" aria-hidden="true"></i> : <strong> 
+                        Quick Response </strong>(shortlist will be presented to you within 1-2 weeks from receiving authorization to proceed)
+                    <br>
+                    <i class="fa fa-check-square-o" aria-hidden="true"></i> : 
+                        <strong><U> Cheaper Fee</U> </strong>while maintaining international standard processes and quality
+                      <br>
+                   <i class="fa fa-check-square-o" aria-hidden="true"></i> : 
+                       <strong><U>No up-front fee</U></strong>
+                      <br>
+                    <i class="fa fa-check-square-o" aria-hidden="true"></i> : 
+                       <strong>Savings in massive recruitment</strong> 
+                     <br>
+                     <i class="fa fa-check-square-o" aria-hidden="true"></i> : 
+                        <strong> Best source for finding filtered candidates </strong>
+                    
+                </p>
+                
+               <!--  <a class="btn btn-primary" href="portfolio-item.html">View Project</i></a> -->
+            </div>
            
             <div class="col-md-5">
                 <a href="portfolio-item.html">
@@ -113,23 +157,45 @@
                     <img class="img-responsive img-hover" src="images/service/service4.png" alt="">
                 </a>
             </div>
-            <div class="col-md-7">
-                <h3><i class="fa fa-list" aria-hidden="true" style="color:#5bc0de ;"></i> : ขั้นตอนในการสรรหาผู้สมัครงานของเรา มีทั้งหมด 9 ขั้นตอน </h3>
+            <div class="col-md-7 spanish">
+                <h3><i class="fa fa-list" aria-hidden="true" style="color:#5bc0de ;"></i> : ขั้นตอนในการสรรหาผู้สมัครงานของเรา มีทั้งหมด 9 ขั้นตอน ดังนี้ </h3>
             
                 <p> 
-                    <i class="fa fa-circle-o" aria-hidden="true" ></i> : ยืนยันความต้องการของลูกค้าอีกครั้งหลังจากได้รับ Job Order แล้ว (เพื่อยืนยันในเรื่องต่างๆ อาทิ เช่น รายละเอียดเรื่องธุรกิจ-วัฒนธรรมองค์กร/ คุณสมบัติพิเศษที่ต้องการ/ โอกาสความก้าวหน้าของผู้สมัคร/ อัตราผลตอบแทน/ คู่แข่งขันทางธุรกิจของลูกค้า ฯลฯ)  
+                    <strong>1</strong> : ยืนยันความต้องการของลูกค้าอีกครั้งหลังจากได้รับ Job Order แล้ว (เพื่อยืนยันในเรื่องต่างๆ s 
                     <br>
-                    <i class="fa fa-circle-o" aria-hidden="true" ></i> : เริ่มติดต่อหาผู้สมัครจากแหล่งต่างๆ  <br>
-                    <i class="fa fa-circle-o" aria-hidden="true" ></i> : ตรวจสอบคุณสมบัติเบื้องต้นของผู้สมัคร  <br>
-                    <i class="fa fa-circle-o" aria-hidden="true" ></i> : 
-                    สัมภาษณ์ผู้สมัครอย่างละเอียด โดยพนักงานผู้ชำนาญการของเรา<br>
-                    <i class="fa fa-circle-o" aria-hidden="true" ></i> : 
-                    นำเสนอผู้สมัครที่ผ่านเกณฑ์แก่ลูกค้า<br>
-                    <i class="fa fa-circle-o" aria-hidden="true" ></i> : 
-                    ลูกค้าสัมภาษณ์และคัดเลือกผู้สมัคร จนได้คนที่ตรงตามความต้องการ<br>
-                    <i class="fa fa-circle-o" aria-hidden="true" ></i> : เจรจาต่อรองเรื่องเงินเดือนและสวัสดิการต่างๆ กับผู้สมัคร<br>
-                    <i class="fa fa-circle-o" aria-hidden="true" ></i> : เราจะทำการตรวจสอบประวัติผู้สมัครให้ หลังจากลูกค้าตกลงเงื่อนไขการจ้างกับผู้สมัครแล้ว<br>
-                    <i class="fa fa-circle-o" aria-hidden="true" ></i> : ประสานงานกับลูกค้าเป็นระยะๆ เพื่อติดตามการทำงานของผู้สมัครจนกว่าจะมั่นใจว่าทุกอย่างจะเรียบร้อย<br>
+                    <strong>2</strong> : เริ่มติดต่อหาผู้สมัครจากแหล่งต่างๆ    <br>
+                    <strong>3</strong> : ตรวจสอบคุณสมบัติเบื้องต้นของผู้สมัคร   <br>
+                    <strong>4</strong> : 
+                    สัมภาษณ์ผู้สมัครอย่างละเอียด โดยพนักงานผู้ชำนาญการของเรา  <br>
+                    <strong>5</strong> : 
+                    นำเสนอผู้สมัครที่ผ่านเกณฑ์แก่ลูกค้า  <br>
+                    <strong>6</strong> : 
+                    ลูกค้าสัมภาษณ์และคัดเลือกผู้สมัคร จนได้คนที่ตรงตามความต้องการ  <br>
+                    <strong>7</strong> : เจรจาต่อรองเรื่องเงินเดือนและสวัสดิการต่างๆ กับผู้สมัคร<br>
+                    <strong>8</strong> : เราจะทำการตรวจสอบประวัติผู้สมัครให้ หลังจากลูกค้าตกลงเงื่อนไขการจ้างกับผู้สมัครแล้ว<br>
+                    <strong>9</strong> : ประสานงานกับลูกค้าเป็นระยะๆ เพื่อติดตามการทำงานของผู้สมัครจนกว่าจะมั่นใจว่าทุกอย่างจะเรียบร้อย  <br>
+
+
+               </p>
+                <!-- <a class="btn btn-primary" href="portfolio-item.html">View Project</i></a> -->
+            </div>
+              <div class="col-md-7 english">
+                <h3><i class="fa fa-list" aria-hidden="true" style="color:#5bc0de ;"></i> : Each Executive Search assignment is carried in 9 steps. </h3>
+            
+                <p> 
+                    <strong>1</strong> : Pre-search discussion with client (client’s business & culture/ specific requirements/ opportunity remuneration package/ market scan)
+                    <br>
+                    <strong>2</strong> : Initial contact potential candidates  <br>
+                    <strong>3</strong> : Candidate’s qualifications examine  <br>
+                    <strong>4</strong> : 
+                    Candidates Meeting (conduct by our professional consultants)<br>
+                    <strong>5</strong> : 
+                    Present shortlists to client<br>
+                    <strong>6</strong> : 
+                    Client interviews to select the right candidate<br>
+                    <strong>7</strong> : Negotiation in compensation and benefits<br>
+                    <strong>8</strong> : Reference checks<br>
+                    <strong>9</strong> : Handholding (an ongoing dialogue with both the candidate and the client after begin assignment to ensure both a smooth integration into client’s organization and assure the achievement of performance goals)<br>
 
 
                </p>
@@ -145,9 +211,9 @@
                     <img class="img-responsive img-hover" src="images/service/service3.png" alt="">
                 </a>
             </div>
-            <div class="col-md-5">
+            <div class="col-md-5 spanish">
                 <h3><i class="fa fa-exclamation-triangle" aria-hidden="true" style="color:#CC0066;"></i> : เงื่อนไขการรับประกันผู้สมัคร </h3>
-                <h4><B>BPIT</B> จะรับประกันผู้สมัครเป็นระยะเวลา 90 – 120 วัน (ขึ้นอยู่กับระดับตำแหน่งงาน)
+                <h4><B>BPIT</B> จะรับประกันผู้สมัครเป็นระยะเวลา 90  วัน 
                 </h4>
                 <h3>
                    <i class="fa fa-exclamation-triangle" aria-hidden="true" style="color:#CC0066;"></i> : เงื่อนไขการรับประกันผลงานของผู้สมัคร
@@ -157,42 +223,77 @@
                </p>
                 <!-- <a class="btn btn-primary" href="portfolio-item.html">View Project</i></a> -->
             </div>
+             <div class="col-md-5 english">
+                <h3><i class="fa fa-exclamation-triangle" aria-hidden="true" style="color:#CC0066;"></i> : Candidate Guaranteed Policy </h3>
+                <h4><B>BPIT</B>  provides 90  days guaranteed period  for successful placement to the client.
+                </h4>
+                <h3>
+                   <i class="fa fa-exclamation-triangle" aria-hidden="true" style="color:#CC0066;"></i> : Performance Guarantee of BPIT
+                </h3>
+                <p>  In the event that the recruited candidate leaves your company or be terminated his/her employment within the guarantee period mentioned above, BPIT shall provide a ONE-TIME replacement at no additional costs providing that (i) all invoices for our service fees have been fully settled, (ii) the replacement is for the same benefit level, (iii) BPIT is advised immediately of the termination of his/her employment. An additional fee will be charged if the replacement is for a higher benefit level. However, the minimum service fees as indicated above shall also apply.
+
+               </p>
+                <!-- <a class="btn btn-primary" href="portfolio-item.html">View Project</i></a> -->
+            </div>
         </div>
         <hr>
 
         <!-- Project Four -->
-            <dir class="row">
+            <dir class="row english" >
                 <div class="col-md-12">
-                    <center> <h1>BPIT</h1><h4> จะพยายามสรรหาผู้สมัครทดแทนคนเดิมภายใน 45 วันนับตั้งแต่ได้รับแจ้งการพ้นสภาพพนักงานของผู้สมัครรายเดิม หากไม่สามารถหาคนทดแทนภายในกำหนดได้ ลูกค้าสามารถที่จะขอคืนค่าบริการตามส่วน ดังตารางต่อไปนี้</h4></center>
+                    <center> <h1>Refund Policy</h1><h4><strong>BPIT</strong>  will endeavor to recruit the replacement within 45 days after we are advised of the termination. Otherwise, BPIT will refund our service fees to you as follows:</h4></center>
                     <table  class="table table-striped" >
                         <thead>
                             <tr>
-                                <th>ผู้สมัครลาออกหรือถูกเลิกจ้างนับตั้งแต่วันเริ่มงาน</th>
-                                <th>อัตราเงินเดือน</th>
+                                <th>Termination after the commencement date of the employment
+</th>
+                                <th>Rate of refund</th>
                             </tr>
                         </thead>
                         <tbody>
                             <tr>
-                              <td>ภายใน 1 - 60 วัน</td>
+                              <td> within 1 - 60 days</td>
+                              <td>40%</td>
+                            </tr>
+                            <tr>
+                                 <td> within 61 - 90 days</td>
+                                 <td>20%</td>
+                            </tr>
+                               
+                            
+                        </tbody>
+                    </table>
+                </div>
+                
+            </dir>      
+             <dir class="row spanish">
+                <div class="col-md-12">
+                    <center> <h1>นโยบายคืนเงินค่าบริการ</h1><h4>BPIT   จะพยายามสรรหาผู้สมัครทดแทนคนเดิมภายใน 45 วันนับตั้งแต่ได้รับแจ้งการพ้นสภาพพนักงานของผู้สมัครรายเดิม หากไม่สามารถหาคนทดแทนภายในกำหนดได้ ลูกค้าสามารถที่จะขอคืนค่าบริการตามส่วน ดังตารางต่อไปนี้</h4></center>
+                    <table  class="table table-striped" >
+                        <thead>
+                            <tr>
+                                <th>
+ผู้สมัครลาออกหรือถูกเลิกจ้างนับตั้งแต่วันเริ่มงาน
+</th>
+                                <th>อัตราเงินคืน</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            <tr>
+                              <td> ภายใน 1 - 60 วัน</td>
                               <td>40%</td>
                             </tr>
                             <tr>
                                  <td> ภายใน 61 - 90 วัน</td>
                                  <td>20%</td>
                             </tr>
-                                <td>  ภายใน 91 - 120 วัน (ข้อนี้ใช้เฉพาะกับตำแหน่งงานที่มีระยะรับประกัน 120 วันเท่านั้น)
-                                </td>
-                                <td>
-                                    10%
-                                </td>
-                            <tr>
-                                
-                            </tr>
+                               
+                          
                         </tbody>
                     </table>
                 </div>
                 
-            </dir>        
+            </dir>          
 
         <!-- Pagination -->
         

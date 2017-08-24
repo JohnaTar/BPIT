@@ -3,7 +3,7 @@
  <div class="container">
 
         <!-- Page Heading/Breadcrumbs -->
-        <div class="row">
+        <div class="row spanish">
             <div class="col-lg-12">
                 <h1 class="page-header">บริการจัดทำเงินเดือน
                  
@@ -15,13 +15,30 @@
                 </ol>
             </div>
         </div>
+        <div class="row english">
+            <div class="col-lg-12">
+                <h1 class="page-header">Payrolling Service
+                 
+                </h1>
+                <ol class="breadcrumb">
+                    <li><a href="{{url('home')}}">Home</a>
+                    </li>
+                    <li class="active">Payrolling Service</li>
+                </ol>
+            </div>
+        </div>
         <!-- /.row -->
 
         <!-- Intro Content -->
         <div class="row">
-            <div class="col-md-6">
-                <h2><i class="fa fa-building" aria-hidden="true" style="color:grey;" ></i> : บริษัท บีพีไอที โฮลดิ้งส์ จำกัด (BPIT)</h2>
+            <div class="col-md-6 spanish">
+                <h2><i class="fa fa-building" aria-hidden="true" style="color:grey;" ></i> : BPIT Holdings Co.,Ltd</h2>
                 <p>รับจัดทำเงินเดือนให้กับบริษัทลูกค้าด้วยความถูกต้อง แม่นยำ และเที่ยงตรง ซึ่งครอบคลุม การจัดทำเงินเดือน (จ่ายเงินให้พนักงานในนาม BPIT เสมือนพนักงานเป็นของเรา หรือจ่ายเงินในนามของลูกค้า)/ จัดทำประกันสังคม/ ภาษีเงินได้ และสวัสดิการต่างๆ นอกจากนั้นเรายังมีบริการจัดทำรายงานต่างๆ ที่เกี่ยวข้องกับเรื่องเงินเดือนให้ลูกค้าตามที่ลูกค้าต้องการอีกด้วย</p>
+              
+            </div>
+              <div class="col-md-6 english">
+                <h2><i class="fa fa-building" aria-hidden="true" style="color:grey;" ></i> : BPIT Holdings Co.,Ltd</h2>
+                <p><strong>BPIT</strong>  is a holistic payroll outsourcing company covering payroll processing (pay under BPIT’s name or pay under Client’s name), social security, income tax and benefits administration which offers an accuracy and stability service. We can provide you any kind of report related to salary payment that you may need.</p>
               
             </div>
             <div class="col-md-6">
@@ -30,7 +47,28 @@
         </div>
 <hr>
    <div class="row">
-            <div class="col-md-6">
+   <div class="col-md-6 english">
+                 <h3><i class="fa fa-check" style="color:green;" aria-hidden="true"></i> : Why us?</h3>
+                
+                <p>
+                    <i class="fa fa-check-square-o" aria-hidden="true"></i> : <strong>Cheaper Fee </strong> while maintaining international standard processes and quality <br>
+                    <i class="fa fa-check-square-o" aria-hidden="true"></i> : <strong>Saving costs </strong>(e.g. avoid high overheads personnel with employing a dedicated specialist in-house)
+                    <br>
+                     <i class="fa fa-check-square-o" aria-hidden="true"></i> : 
+                        <strong> Delegating responsibility for keeping abreast with complex and changing employment legislation 
+                    <br>
+                    <i class="fa fa-check-square-o" aria-hidden="true"></i> : 
+                        <strong> Improving disaster recovery  </strong>
+                      <br>
+                   <i class="fa fa-check-square-o" aria-hidden="true"></i> : 
+                      <strong>  Accessing better management reports</strong>
+                    <i class="fa fa-check-square-o" aria-hidden="true"></i> : 
+                       <strong> Available time to concentrate on your core activities which impact direct to your business results  
+                     <br>
+                    </p>
+              
+            </div>
+            <div class="col-md-6 spanish">
                  <h3><i class="fa fa-check" style="color:green;" aria-hidden="true"></i> : จุดเด่นของเรา</h3>
                 
                 <p>
@@ -60,7 +98,7 @@
         <!-- /.row -->
 
         <!-- Our Customers -->
-        <div class="row">
+        <div class="row spanish">
             <div class="col-lg-12">
                 <h2 class="page-header">ขั้นตอนในการใช้บริการจัดทำเงินเดือนของเรา มี 5 ขั้นตอน ดังนี้</h2>
             </div>
@@ -109,11 +147,104 @@
                        
                     </div>
                     <div class="tab-pane fade" id="service-six">
-                        <h4>กรุงเทพและปริมณฑล; กรุณาติดต่อ </h4>
-                        <p>คุณโสภิดา – มือถือ (081) 510 – 8853 สำนักงานโทร (02) 434 3195 – 7 E-mail; sopida_s@bpit.co.th </p>
-                        <p>
-                            คุณอรอุมา – มือถือ (087) 080 – 9101 สำนักงานโทร (038) 416 975 – 7 E-mail; on-uma_s@bpit.co.th
+                        <div class="row">
+                            <div class="col-md-4 " style="border-left: thick solid #ffbb33;" >
+                               <h4>กรุงเทพและปริมณฑล; กรุณาติดต่อ </h4>
+                                 <p>คุณโสภิดา </p><p> มือถือ (081) 510 – 8853 <br>
+                                 สำนักงานโทร (02) 434 3195 – 7 <br> 
+                                 E-mail; sopida_s@bpit.co.th </p>
+                            </div>
+                            <div class="col-md-4" style="border-left: thick solid #00C851;">
+                                <h4>พัทยา; กรุณาติดต่อ </h4>
+                                <p>
+                            คุณอรอุมา</p> <p> มือถือ (087) 080 – 9101<br> สำนักงานโทร (038) 416 975 – 7<br> E-mail; on-uma_s@bpit.co.th
                         </p>
+
+                            </div>
+                            <div class="col-md-4" style="border-left: thick solid #33b5e5;">
+                                 <h4>ชลบุรี; กรุณาติดต่อ </h4>
+                                  <p>
+                            คุณนิรมล</p><p> มือถือ (098) 978 – 7178 <br>สำนักงานโทร (038) 458 925 – 7 <br>E-mail; niramol_p@bpit.co.th
+                        </p>
+                            </div>
+                        </div>
+                   
+                       
+                    </div>
+                </div>
+
+            </div>
+        </div>
+        <div class="row english">
+            <div class="col-lg-12">
+                <h2 class="page-header"> Our Payroll Outsourcing Service is carried in 5 steps</h2>
+            </div>
+            <div class="col-lg-12">
+
+                <ul id="myTab" class="nav nav-tabs nav-justified">
+                    <li class="active"><a href="#service-1" data-toggle="tab"><i class="fa fa-check-square"></i> Step 1</a>
+                    </li>
+                    <li class=""><a href="#service-2" data-toggle="tab"><i class="fa fa-check-square"></i> : Step 2</a>
+                    </li>
+                    <li class=""><a href="#service-3" data-toggle="tab"><i class="fa fa-check-square"></i> : Step 3</a>
+                    </li>
+                    <li class=""><a href="#service-4" data-toggle="tab"><i class="fa fa-check-square"></i> : Step 4</a>
+                    </li>
+                      <li class=""><a href="#service-5" data-toggle="tab"><i class="fa fa-check-square"></i> : Step 5</a>
+                    </li>
+                    <li class=""><a href="#service-6" data-toggle="tab"><i class="fa fa-mobile fa-2x"></i> : More detail</a>
+                    </li>
+                </ul>
+
+                <div id="myTabContent" class="tab-content">
+                    <div class="tab-pane fade active in" id="service-1">
+                        <h4> Contract</h4>
+                        <p>
+                         it’s vital that there is a contract and service level agreement in place
+                        </p>
+                    </div>
+                    <div class="tab-pane fade" id="service-2">
+                        <h4>Pre-search discussion</h4>
+                        <p>to recognize client’s needs (e.g. client’s business & culture/ specific requirements/ current payroll procedures/ reports/ problems/ expectations)</p>
+                        
+                    </div>
+                    <div class="tab-pane fade" id="service-3">
+                        <h4>Research</h4>
+                        <p>to find the best payroll procedure which suit to the needs of client and advise regarding on any process improvement & cost saving</p>
+                       
+                    </div>
+                    <div class="tab-pane fade" id="service-4">
+                        <h4>Start Up</h4>
+                        <p> this is the tactical aspect of moving responsibility for managing payroll from the original in-house professional to BPIT that it should be minimal disruption to routine during this process</p>
+                       
+                    </div>
+                     <div class="tab-pane fade" id="service-5">
+                        <h4>Maintain the ongoing relationship</h4>
+                        <p>we give you the ability to contact our payroll team leader all time for possible problemsว  </p>
+                       
+                    </div>
+                    <div class="tab-pane fade" id="service-6">
+                        <div class="row">
+                            <div class="col-md-4 " style="border-left: thick solid #ffbb33;" >
+                               <h4>Bangkok Branch : Please Contact </h4>
+                                 <p>Khun Sopida </p><p> Mobile : +66(81) 510 – 8853 <br>
+                                 Office : +66(2) 434 3195 – 7 <br> 
+                                 E-mail : sopida_s@bpit.co.th </p>
+                            </div>
+                            <div class="col-md-4" style="border-left: thick solid #00C851;">
+                                <h4>Pattaya Branch : Please Contact </h4>
+                                <p>
+                            Khun On-uma</p> <p> Mobile : +66(87) 080 – 9101<br> Office : +66(38) 416 975 – 7<br> E-mail : on-uma_s@bpit.co.th
+                        </p>
+
+                            </div>
+                            <div class="col-md-4" style="border-left: thick solid #33b5e5;">
+                                 <h4>Chonburi : Please Contact </h4>
+                                  <p>
+                            Khun Niramol</p><p> Mobile : +66(98) 978 – 7178 <br>Office :  +66(38) 458 925 – 7 <br>E-mail : niramol_p@bpit.co.th
+                        </p>
+                            </div>
+                        </div>
                        
                     </div>
                 </div>

@@ -82,8 +82,10 @@
             border-top:0 none;
         }
     }
+.english { display: none; }
+.spanish { display: inline; }
     </style>
-    
+
    
 
     <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
