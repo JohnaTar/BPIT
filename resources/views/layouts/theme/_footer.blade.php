@@ -33,9 +33,9 @@ var cimg = 107;var cwi =170;var che =20;
                 <div class="col-lg-11">
 
                     <p>Copyright © 2017 bpit.co.th All rights reserved.<br>
-Bangkok Tel. +66(2) 4343195-7 Fax. +66(2) 435-6469 <br>
-Pataya Tel. +66(38) 416975-7 Fax. +66(38) 416-978 <br>
-Chonburi (Amata Nakorn Branch)  Tel. +66(38) 458925-6  Fax. +66(38) 458-927 </p>
+Bangkok Tel. +66 (2) 434 3195-7 Fax. +66 (2) 435 6469 <br>
+Pataya Tel. +66 (38) 416 975-7 Fax. +66 (38) 416 978 <br>
+Chonburi (Amata Nakorn)  Tel. +66 (38) 458 925-6  Fax. +66 (38) 458 927 </p>
 <a href="http://www.histats.com" target="_blank" title="web log free" >
 <script  type="text/javascript" language="javascript">
 var s_sid = 861474;var st_dominio = 4;

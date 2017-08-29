@@ -42,7 +42,7 @@
         <hr>
          <div class="row spanish">
             <div class="col-lg-12">
-                <h2 class="page-heade">บริษัท บีพีไอที โฮลดิ้งส์ จำกัด (BPIT) </h2>
+                <h2 class="page-heade">บริษัท บีพีไอที โฮลดิ้งส์ จำกัด  <em>(BPIT)</em> </h2>
             </div>
             <div class="col-md-6">
               
@@ -133,11 +133,11 @@
        
    <div class="row english">
             <div class="col-lg-12">
-                <h2 class="page-heade">BPIT holdings Co.,Ltd </h2>
+                <h2 class="page-heade"><em>BPIT</em> holdings Co.,Ltd </h2>
             </div>
             <div class="col-md-6">
               
-                <p>BPIT  has been an accurate hands-on training provider for almost 10 years and has worked with all major industries. We try our best to support our clients’ business objectives. Training staffs, keeping them motivated and up-to-date with the industry trends, new management tools and new technologies are essential to achieving your business goals.
+                <p><strong><em> BPIT</em> </strong>  has been an accurate hands-on training provider for almost 10 years and has worked with all major industries. We try our best to support our clients’ business objectives. Training staffs, keeping them motivated and up-to-date with the industry trends, new management tools and new technologies are essential to achieving your business goals.
 Research shows that productivity increases while training takes place. Staff who obtains formal training can be 230% more productive than untrained colleagues who are working in the same roll </p>
                   <p> <i class="fa fa-check fa-2x" aria-hidden="true" style="color:#5cb85c;"></i> : <strong>Why us? </strong></p>
                 <ul>
@@ -168,17 +168,17 @@ Skills Assessment of your staffs (to find gap between current skills & knowledge
                 </ul>
             </div>
             <div class="col-md-6">
-                  <div id="carousel-example-generic" class="carousel slide" data-ride="carousel">
+                  <div id="carousel-example-generic1" class="carousel slide" data-ride="carousel">
                     <!-- Indicators -->
                     <ol class="carousel-indicators">
-                        <li data-target="#carousel-example-generic" data-slide-to="0" class="active"></li>
-                        <li data-target="#carousel-example-generic" data-slide-to="1"></li>
-                        <li data-target="#carousel-example-generic" data-slide-to="2"></li>
-                        <li data-target="#carousel-example-generic" data-slide-to="3"></li>
-                          <li data-target="#carousel-example-generic" data-slide-to="4"></li>
-                            <li data-target="#carousel-example-generic" data-slide-to="5"></li>
-                              <li data-target="#carousel-example-generic" data-slide-to="6"></li>
-                              <li data-target="#carousel-example-generic" data-slide-to="7"></li>
+                        <li data-target="#carousel-example-generic1" data-slide-to="0" class="active"></li>
+                        <li data-target="#carousel-example-generic1" data-slide-to="1"></li>
+                        <li data-target="#carousel-example-generic1" data-slide-to="2"></li>
+                        <li data-target="#carousel-example-generic1" data-slide-to="3"></li>
+                          <li data-target="#carousel-example-generic1" data-slide-to="4"></li>
+                            <li data-target="#carousel-example-generic1" data-slide-to="5"></li>
+                              <li data-target="#carousel-example-generic1" data-slide-to="6"></li>
+                              <li data-target="#carousel-example-generic1" data-slide-to="7"></li>
                     </ol>
 
                     <!-- Wrapper for slides -->
@@ -211,10 +211,10 @@ Skills Assessment of your staffs (to find gap between current skills & knowledge
 
 
                     <!-- Controls -->
-                    <a class="left carousel-control" href="#carousel-example-generic" data-slide="prev">
+                    <a class="left carousel-control" href="#carousel-example-generic1" data-slide="prev">
                         <span class="glyphicon glyphicon-chevron-left"></span>
                     </a>
-                    <a class="right carousel-control" href="#carousel-example-generic" data-slide="next">
+                    <a class="right carousel-control" href="#carousel-example-generic1" data-slide="next">
                         <span class="glyphicon glyphicon-chevron-right"></span>
                     </a>
                 </div>
@@ -233,7 +233,7 @@ Skills Assessment of your staffs (to find gap between current skills & knowledge
         <!-- The circle icons use Font Awesome's stacked icon classes. For more information, visit http://fontawesome.io/examples/ -->
         <div class="row spanish">
             <div class="col-lg-12">
-                <h2 class="page-header">หลักสูตรอบรม In-house Training มาตรฐานของ BPIT</h2>
+                <h2 class="page-header">หลักสูตรอบรม In-house Training มาตรฐานของ <strong> <em> BPIT</em></strong> </h2>
             </div>
             <div class="col-md-4">
                 <div class="media">
@@ -583,7 +583,7 @@ Skills Assessment of your staffs (to find gap between current skills & knowledge
         <!-- /.row -->
          <div class="row english">
             <div class="col-lg-12">
-                <h2 class="page-header">In-house Training Courses of BPIT</h2>
+                <h2 class="page-header">In-house Training Courses of <strong><em>BPIT</em></strong> </h2>
             </div>
             <div class="col-md-4">
                 <div class="media">

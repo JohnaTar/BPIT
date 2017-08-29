@@ -272,7 +272,7 @@
                             </div>
                         </div>
                         <div class="grid__item-caption">
-                            <h3 class="grid__item-title"><i class="fa fa-search" aria-hidden="true"></i> Recuitment Search</h3>
+                            <h3 class="grid__item-title"><i class="fa fa-search" aria-hidden="true"></i> Recuitment Service</h3>
                           
                         </div>
                     </a>
@@ -303,7 +303,7 @@
                             </div>
                         </div>
                         <div class="grid__item-caption">
-                            <h3 class="grid__item-title"><i class="fa fa-credit-card" aria-hidden="true"></i> Payrolling Outsourcing</h3>
+                            <h3 class="grid__item-title"><i class="fa fa-credit-card" aria-hidden="true"></i> Payroll Outsourcing</h3>
                             
                         </div>
                     </a>
@@ -778,7 +778,7 @@ var TxtType = function(el, toRotate, period) {
        <div class="row" >
   
            <div class="col-md-12">
-                <div class="panel panel-primary"  >
+                <div class="panel panel-primary" style="height: auto;"     >
                         <div class="panel-heading">
                        
                      <i class="fa fa-thumb-tack" aria-hidden="true"></i>   ตำแหน่งงานว่าง
@@ -846,6 +846,7 @@ var TxtType = function(el, toRotate, period) {
             </div>
                         
                     </li>
+
                 </ul>
    
     

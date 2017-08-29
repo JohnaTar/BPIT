@@ -5,7 +5,7 @@
         <!-- Page Heading/Breadcrumbs -->
         <div class="row spanish">
             <div class="col-lg-12">
-                <h1 class="page-header">บริการสรรหาพนักงานประจำ
+                <h1 class="page-header">บริการสรรหาพนักงานประจำ (Recruitment)
                 <!--     <small>Subheading</small> -->
                 </h1>
                 <ol class="breadcrumb">
@@ -17,7 +17,7 @@
         </div>
         <div class="row english">
             <div class="col-lg-12">
-                <h1 class="page-header">Recuitment Service
+                <h1 class="page-header">Recruitment Service
                 <!--     <small>Subheading</small> -->
                 </h1>
                 <ol class="breadcrumb">
@@ -69,15 +69,15 @@
                 
             </div>
             <div class="col-md-7 spanish">
-                <h3 ><i class="fa fa-building" aria-hidden="true" style="color:grey;" ></i> : BPIT Holdings Co.,Ltd  </h3>
+                <h3 ><i class="fa fa-building" aria-hidden="true" style="color:grey;" ></i> : <em>BPIT</em> Holdings Co.,Ltd  </h3>
                
-                <p> &nbsp;&nbsp;&nbsp; <strong>BPIT </strong>ให้บริการสรรหาพนักงานทุกระดับตั้งแต่พนักงานระดับปฏิบัติการ-ผู้บริหาร โดยเราสามารถดำเนินการต่างๆ ตามที่ลูกค้าแต่ละรายต้องการได้ เพราะเรามีปรัชญายึดหลัก "ลูกค้าเป็นศูนย์กลาง" เรามีพนักงานมืออาชีพที่คอยช่วยลูกค้าในการกำหนดคุณสมบัติที่ชัดเจน-เหมาะสมกับงาน และด้วยประสบการณ์ตรงยาวนานในวิชาชีพ พนักงานของเราจะเรียนรู้และเข้าใจความต้องการของลูกค้า รวมถึงเรื่องต่างๆ เกี่ยวกับธุรกิจของลูกค้าได้อย่างรวดเร็ว ดังนั้น หากท่านใช้บริการของ BPIT แล้วจงมั่นใจว่า นอกจากท่านจะได้ผู้สมัครที่มีทักษะในงานตรงตามต้องการแล้ว เรายังมองไปถึงการคัดเลือกเฉพาะคนที่เห็นว่าเข้ากับองค์กรของท่านได้อีกด้วย</p>
+                <p> &nbsp;&nbsp;&nbsp; <strong><em>BPIT</em> </strong>ให้บริการสรรหาพนักงานทุกระดับตั้งแต่พนักงานระดับปฏิบัติการ-ผู้บริหาร โดยเราสามารถดำเนินการต่างๆ ตามที่ลูกค้าแต่ละรายต้องการได้ เพราะเรามีปรัชญายึดหลัก "ลูกค้าเป็นศูนย์กลาง" เรามีพนักงานมืออาชีพที่คอยช่วยลูกค้าในการกำหนดคุณสมบัติที่ชัดเจน-เหมาะสมกับงาน และด้วยประสบการณ์ตรงยาวนานในวิชาชีพ พนักงานของเราจะเรียนรู้และเข้าใจความต้องการของลูกค้า รวมถึงเรื่องต่างๆ เกี่ยวกับธุรกิจของลูกค้าได้อย่างรวดเร็ว ดังนั้น หากท่านใช้บริการของ BPIT แล้วจงมั่นใจว่า นอกจากท่านจะได้ผู้สมัครที่มีทักษะในงานตรงตามต้องการแล้ว เรายังมองไปถึงการคัดเลือกเฉพาะคนที่เห็นว่าเข้ากับองค์กรของท่านได้อีกด้วย</p>
                <!--  <a class="btn btn-primary" href="portfolio-item.html">View Project</i></a> -->
             </div>
               <div class="col-md-7 english">
-                <h3 ><i class="fa fa-building" aria-hidden="true" style="color:grey;" ></i> : BPIT Holdings Co.,Ltd  </h3>
+                <h3 ><i class="fa fa-building" aria-hidden="true" style="color:grey;" ></i> : <em>BPIT</em> Holdings Co.,Ltd  </h3>
                
-                <p> <strong>BPIT</strong> is a boutique executive search firm customized the needs of each individual client; we work on concept of “Client as Center”. Our local consultants will help you to develop a specific job specification based on your needs and as their highly experienced they will be quick in understanding your corporate culture and your requirements. So, BPIT ensures to offer the right candidates who are not only qualified technically but also fit in well with client’s organization.</p>
+                <p> <em>BPIT</em> is a boutique executive search firm customized the needs of each individual client; we work on concept of “Client as Center”. Our local consultants will help you to develop a specific job specification based on your needs and as their highly experienced they will be quick in understanding your corporate culture and your requirements. So, BPIT ensures to offer the right candidates who are not only qualified technically but also fit in well with client’s organization.</p>
                <!--  <a class="btn btn-primary" href="portfolio-item.html">View Project</i></a> -->
             </div>
         </div>
@@ -213,22 +213,22 @@
             </div>
             <div class="col-md-5 spanish">
                 <h3><i class="fa fa-exclamation-triangle" aria-hidden="true" style="color:#CC0066;"></i> : เงื่อนไขการรับประกันผู้สมัคร </h3>
-                <h4><B>BPIT</B> จะรับประกันผู้สมัครเป็นระยะเวลา 90  วัน 
+                <h4><em>BPIT</em> จะรับประกันผู้สมัครเป็นระยะเวลา 90  วัน 
                 </h4>
                 <h3>
                    <i class="fa fa-exclamation-triangle" aria-hidden="true" style="color:#CC0066;"></i> : เงื่อนไขการรับประกันผลงานของผู้สมัคร
                 </h3>
-                <p> ในกรณีที่ผู้สมัครที่ได้รับการคัดเลือกลาออกหรือลูกค้าเลิกจ้างภายในระยะเวลารับประกัน BPIT จะสรรหาผู้สมัครทดแทนจนได้คนใหม่อีก 1 ครั้ง โดยไม่คิดค่าใช้จ่ายเฉพาะกรณีที่ (i) เราได้รับค่าบริการครบถ้วนแล้ว (ii) ผู้สมัครคนใหม่ที่ได้รับคัดเลือกมีเงินเดือนและสวัสดิการไม่เกินจากคนเดิม (iii) BPIT ได้รับแจ้งจากลูกค้าทันทีที่ลูกค้าเลิกจ้างพนักงาน แต่ทั้งนี้ ในกรณีผู้สมัครคนใหม่ที่ลูกค้าตกลงว่าจ้างมีค่าจ้างสูงกว่าผู้สมัครรายเดิม BPIT จะชาร์จค่าบริการเฉพาะในส่วนเพิ่ม
+                <p> ในกรณีที่ผู้สมัครที่ได้รับการคัดเลือกลาออกหรือลูกค้าเลิกจ้างภายในระยะเวลารับประกัน <em>BPIT</em> จะสรรหาผู้สมัครทดแทนจนได้คนใหม่อีก 1 ครั้ง โดยไม่คิดค่าใช้จ่ายเฉพาะกรณีที่ (i) เราได้รับค่าบริการครบถ้วนแล้ว (ii) ผู้สมัครคนใหม่ที่ได้รับคัดเลือกมีเงินเดือนและสวัสดิการไม่เกินจากคนเดิม (iii) <em> BPIT</em> ได้รับแจ้งจากลูกค้าทันทีที่ลูกค้าเลิกจ้างพนักงาน แต่ทั้งนี้ ในกรณีผู้สมัครคนใหม่ที่ลูกค้าตกลงว่าจ้างมีค่าจ้างสูงกว่าผู้สมัครรายเดิม BPIT จะชาร์จค่าบริการเฉพาะในส่วนเพิ่ม
 
                </p>
                 <!-- <a class="btn btn-primary" href="portfolio-item.html">View Project</i></a> -->
             </div>
              <div class="col-md-5 english">
                 <h3><i class="fa fa-exclamation-triangle" aria-hidden="true" style="color:#CC0066;"></i> : Candidate Guaranteed Policy </h3>
-                <h4><B>BPIT</B>  provides 90  days guaranteed period  for successful placement to the client.
+                <h4><em>BPIT</em>  provides 90  days guaranteed period  for successful placement to the client.
                 </h4>
                 <h3>
-                   <i class="fa fa-exclamation-triangle" aria-hidden="true" style="color:#CC0066;"></i> : Performance Guarantee of BPIT
+                   <i class="fa fa-exclamation-triangle" aria-hidden="true" style="color:#CC0066;"></i> : Performance Guarantee of <em>BPIT</em>
                 </h3>
                 <p>  In the event that the recruited candidate leaves your company or be terminated his/her employment within the guarantee period mentioned above, BPIT shall provide a ONE-TIME replacement at no additional costs providing that (i) all invoices for our service fees have been fully settled, (ii) the replacement is for the same benefit level, (iii) BPIT is advised immediately of the termination of his/her employment. An additional fee will be charged if the replacement is for a higher benefit level. However, the minimum service fees as indicated above shall also apply.
 
@@ -241,7 +241,7 @@
         <!-- Project Four -->
             <dir class="row english" >
                 <div class="col-md-12">
-                    <center> <h1>Refund Policy</h1><h4><strong>BPIT</strong>  will endeavor to recruit the replacement within 45 days after we are advised of the termination. Otherwise, BPIT will refund our service fees to you as follows:</h4></center>
+                    <center> <h1>Refund Policy</h1><h4><em>BPIT</em>  will endeavor to recruit the replacement within 45 days after we are advised of the termination. Otherwise, <em>BPIT</em> will refund our service fees to you as follows:</h4></center>
                     <table  class="table table-striped" >
                         <thead>
                             <tr>
@@ -268,7 +268,7 @@
             </dir>      
              <dir class="row spanish">
                 <div class="col-md-12">
-                    <center> <h1>นโยบายคืนเงินค่าบริการ</h1><h4>BPIT   จะพยายามสรรหาผู้สมัครทดแทนคนเดิมภายใน 45 วันนับตั้งแต่ได้รับแจ้งการพ้นสภาพพนักงานของผู้สมัครรายเดิม หากไม่สามารถหาคนทดแทนภายในกำหนดได้ ลูกค้าสามารถที่จะขอคืนค่าบริการตามส่วน ดังตารางต่อไปนี้</h4></center>
+                    <center> <h1>นโยบายคืนเงินค่าบริการ</h1><h4><em>BPIT</em>   จะพยายามสรรหาผู้สมัครทดแทนคนเดิมภายใน 45 วันนับตั้งแต่ได้รับแจ้งการพ้นสภาพพนักงานของผู้สมัครรายเดิม หากไม่สามารถหาคนทดแทนภายในกำหนดได้ ลูกค้าสามารถที่จะขอคืนค่าบริการตามส่วน ดังตารางต่อไปนี้</h4></center>
                     <table  class="table table-striped" >
                         <thead>
                             <tr>

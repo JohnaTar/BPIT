@@ -152,17 +152,17 @@ Default 700/5 : 140px;
                 
             </div>
             <div class="col-md-6 english">
-                <h2><i class="fa fa-building" aria-hidden="true" style="color:grey;" ></i> : BPIT Holdings Co.,Ltd (BPIT)</h2>
-                <p> <strong>BPIT</strong> is a boutique staff supply company customized the needs of each individual client; BPIT has deployed more than 1,000 employees to both for local and international enterprises. An irreversible tendency of employment in the around the world is Subcontracting or Outsourcing in administration of personnel; this means that more and more organizations give outside expert company to take over some parts of their personnel administrative tasks such as recruiting, dismissals, payroll processing, social security, personnel appraisal etc. 
+                <h2><i class="fa fa-building" aria-hidden="true" style="color:grey;" ></i> : <em>BPIT</em> Holdings Co.,Ltd (BPIT)</h2>
+                <p> <strong><em>BPIT</em></strong> is a boutique staff supply company customized the needs of each individual client; BPIT has deployed more than 1,000 employees to both for local and international enterprises. An irreversible tendency of employment in the around the world is Subcontracting or Outsourcing in administration of personnel; this means that more and more organizations give outside expert company to take over some parts of their personnel administrative tasks such as recruiting, dismissals, payroll processing, social security, personnel appraisal etc. 
                 </p>
               
             </div>
              <div class="col-md-6 spanish">
-                <h2><i class="fa fa-building" aria-hidden="true" style="color:grey;" ></i> : บริษัท บีพีไอที โฮลดิ้งส์ จำกัด (BPIT)</h2>
+                <h2><i class="fa fa-building" aria-hidden="true" style="color:grey;" ></i> : บริษัท บีพีไอที โฮลดิ้งส์ จำกัด <em> (BPIT) </em></h2>
                 <p> ให้บริการสรรหาพนักงานทุกระดับตั้งแต่พนักงานระดับปฏิบัติการ-ผู้บริหาร โดยเราสามารถดำเนินการต่างๆ ตามที่ลูกค้าแต่ละรายต้องการได้ เพราะเรามีปรัชญายึดหลัก <B>"ลูกค้าเป็นศูนย์กลาง"</B>
                 </p>
                 <p>เรามีพนักงานมืออาชีพที่คอยช่วยลูกค้าในการกำหนดคุณสมบัติที่ชัดเจน-เหมาะสมกับงาน และด้วยประสพการณ์ตรงยาวนานในวิชาชีพ พนักงานของเราจะเรียนรู้และเข้าใจความต้องการของลูกค้า รวมถึงเรื่องต่างๆ เกี่ยวกับธุรกิจของลูกค้าได้อย่างรวดเร็ว </p>
-                <p>ดังนั้น หากท่านใช้บริการของ BPIT แล้วจงมั่นใจว่า นอกจากท่านจะได้ผู้สมัครที่มีทักษะในงานตรงตามต้องการแล้ว เรายังมองไปถึงการคัดเลือกเฉพาะคนที่เห็นว่าเข้ากับองค์กรของท่านได้อีกด้วย</p>
+                <p>ดังนั้น หากท่านใช้บริการของ <strong><em>BPIT</em></strong>  แล้วจงมั่นใจว่า นอกจากท่านจะได้ผู้สมัครที่มีทักษะในงานตรงตามต้องการแล้ว เรายังมองไปถึงการคัดเลือกเฉพาะคนที่เห็นว่าเข้ากับองค์กรของท่านได้อีกด้วย</p>
             </div>
         </div>
         <div class="row ">
@@ -185,7 +185,7 @@ Default 700/5 : 140px;
                     <div class="tab-pane fade active in" id="service-1">
                         <br>
                         <div class="spanish">
-                        <p><i class="fa fa-check-square-o" style="color:green;" aria-hidden="true"></i> : พนักงานของเรามีประสิทธิภาพสูง เพราะ BPIT ดูแลพนักงานในฐานะเป็นหุ้นส่วนทางธุรกิจ (ไม่ใช่มองว่าเป็นลูกจ้าง) เพราะเราต้องการให้พนักงานมีความสุขเพื่อที่จะได้ทุ่มเทการทำงานให้ลูกค้า</p>
+                        <p><i class="fa fa-check-square-o" style="color:green;" aria-hidden="true"></i> : พนักงานของเรามีประสิทธิภาพสูง เพราะ <strong> <em>BPIT</em> </strong>ดูแลพนักงานในฐานะเป็นหุ้นส่วนทางธุรกิจ (ไม่ใช่มองว่าเป็นลูกจ้าง) เพราะเราต้องการให้พนักงานมีความสุขเพื่อที่จะได้ทุ่มเทการทำงานให้ลูกค้า</p>
                         <p><i class="fa fa-check-square-o" style="color:green;" aria-hidden="true"></i> : เราสรรหาพนักงานให้ลูกค้าได้อย่างรวดเร็ว</p>
                          <p><i class="fa fa-check-square-o" style="color:green;" aria-hidden="true"></i> : <B>ค่าบริการที่ถูกกว่า</B> แต่คุณภาพมาตรฐานระดับสากล</p>
                           <p><i class="fa fa-check-square-o" style="color:green;" aria-hidden="true"></i> : เราช่วยลูกค้าลดความยุ่งยากในการสรรหาพนักงานระดับล่างและยังสมารถลดต้นทุนในการบริหารคน</p>
@@ -197,7 +197,7 @@ Default 700/5 : 140px;
                                <p><i class="fa fa-check-square-o" style="color:green;" aria-hidden="true"></i> : ลูกค้ามีเวลาไปมุ่งทำเฉพาะกิจกรรมที่สำคัญๆ ที่จะทำให้ธุรกิจดีขึ้น (ยกภาระงานประจำให้เราทำแทน)</p>
                                </div>
                                <div class="english">
-                                 <p><i class="fa fa-check-square-o" style="color:green;" aria-hidden="true"></i> : More productivity of our personnel; BPIT treats employees as business its partner which make them happy and willing to work for clients</p>
+                                 <p><i class="fa fa-check-square-o" style="color:green;" aria-hidden="true"></i> : More productivity of our personnel; <strong><em> BPIT </em></strong>treats employees as business its partner which make them happy and willing to work for clients</p>
                         <p><i class="fa fa-check-square-o" style="color:green;" aria-hidden="true"></i> : Quick Response in recruiting</p>
                          <p><i class="fa fa-check-square-o" style="color:green;" aria-hidden="true"></i> : <B>Cheaper Fee</B> while maintaining international standard processes and quality</p>
                           <p><i class="fa fa-check-square-o" style="color:green;" aria-hidden="true"></i> : Savings in massive recruitment and personnel administrative costs</p>

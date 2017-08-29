@@ -17,13 +17,13 @@
         </div>
         <div class="row english">
             <div class="col-lg-12">
-                <h1 class="page-header">Payrolling Service
+                <h1 class="page-header">Payroll Service
                  
                 </h1>
                 <ol class="breadcrumb">
                     <li><a href="{{url('home')}}">Home</a>
                     </li>
-                    <li class="active">Payrolling Service</li>
+                    <li class="active">Payroll Service</li>
                 </ol>
             </div>
         </div>
@@ -32,13 +32,13 @@
         <!-- Intro Content -->
         <div class="row">
             <div class="col-md-6 spanish">
-                <h2><i class="fa fa-building" aria-hidden="true" style="color:grey;" ></i> : BPIT Holdings Co.,Ltd</h2>
-                <p>รับจัดทำเงินเดือนให้กับบริษัทลูกค้าด้วยความถูกต้อง แม่นยำ และเที่ยงตรง ซึ่งครอบคลุม การจัดทำเงินเดือน (จ่ายเงินให้พนักงานในนาม BPIT เสมือนพนักงานเป็นของเรา หรือจ่ายเงินในนามของลูกค้า)/ จัดทำประกันสังคม/ ภาษีเงินได้ และสวัสดิการต่างๆ นอกจากนั้นเรายังมีบริการจัดทำรายงานต่างๆ ที่เกี่ยวข้องกับเรื่องเงินเดือนให้ลูกค้าตามที่ลูกค้าต้องการอีกด้วย</p>
+                <h2><i class="fa fa-building" aria-hidden="true" style="color:grey;" ></i> : <strong><em>BPIT</em></strong>  Holdings Co.,Ltd</h2>
+                <p>รับจัดทำเงินเดือนให้กับบริษัทลูกค้าด้วยความถูกต้อง แม่นยำ และเที่ยงตรง ซึ่งครอบคลุม การจัดทำเงินเดือน (จ่ายเงินให้พนักงานในนาม <strong><em>BPIT</em></strong> เสมือนพนักงานเป็นของเรา หรือจ่ายเงินในนามของลูกค้า)/ จัดทำประกันสังคม/ ภาษีเงินได้ และสวัสดิการต่างๆ นอกจากนั้นเรายังมีบริการจัดทำรายงานต่างๆ ที่เกี่ยวข้องกับเรื่องเงินเดือนให้ลูกค้าตามที่ลูกค้าต้องการอีกด้วย</p>
               
             </div>
               <div class="col-md-6 english">
-                <h2><i class="fa fa-building" aria-hidden="true" style="color:grey;" ></i> : BPIT Holdings Co.,Ltd</h2>
-                <p><strong>BPIT</strong>  is a holistic payroll outsourcing company covering payroll processing (pay under BPIT’s name or pay under Client’s name), social security, income tax and benefits administration which offers an accuracy and stability service. We can provide you any kind of report related to salary payment that you may need.</p>
+                <h2><i class="fa fa-building" aria-hidden="true" style="color:grey;" ></i> : <strong><em>BPIT</em></strong> Holdings Co.,Ltd</h2>
+                <p><strong><em>BPIT</em></strong>  is a holistic payroll outsourcing company covering payroll processing (pay under <strong><em>BPIT</em></strong>’s name or pay under Client’s name), social security, income tax and benefits administration which offers an accuracy and stability service. We can provide you any kind of report related to salary payment that you may need.</p>
               
             </div>
             <div class="col-md-6">
@@ -61,7 +61,7 @@
                         <strong> Improving disaster recovery  </strong>
                       <br>
                    <i class="fa fa-check-square-o" aria-hidden="true"></i> : 
-                      <strong>  Accessing better management reports</strong>
+                      <strong>  Accessing better management reports</strong><br>
                     <i class="fa fa-check-square-o" aria-hidden="true"></i> : 
                        <strong> Available time to concentrate on your core activities which impact direct to your business results  
                      <br>
@@ -138,7 +138,7 @@
                     </div>
                     <div class="tab-pane fade" id="service-four">
                         <h4>เริ่มให้บริการทำเงินเดือน</h4>
-                        <p> จากประสบการณ์ของเรา เราสามารถจะทำให้การถ่ายโอนงานทำเงินเดือนและสวัสดิการต่างๆ จากพนักงานของลูกค้ามาให้พนักงานของ BPIT ดำเนินการแทนได้อย่างราบรื่น แม้จะมีปัญหาบ้างหากรายละเอียดมาก แต่ก็จะเป็นเรื่อง เล็กๆ น้อยๆ เท่านั้น</p>
+                        <p> จากประสบการณ์ของเรา เราสามารถจะทำให้การถ่ายโอนงานทำเงินเดือนและสวัสดิการต่างๆ จากพนักงานของลูกค้ามาให้พนักงานของ <strong><em>BPIT</em></strong> ดำเนินการแทนได้อย่างราบรื่น แม้จะมีปัญหาบ้างหากรายละเอียดมาก แต่ก็จะเป็นเรื่อง เล็กๆ น้อยๆ เท่านั้น</p>
                        
                     </div>
                      <div class="tab-pane fade" id="service-five">
@@ -215,7 +215,7 @@
                     </div>
                     <div class="tab-pane fade" id="service-4">
                         <h4>Start Up</h4>
-                        <p> this is the tactical aspect of moving responsibility for managing payroll from the original in-house professional to BPIT that it should be minimal disruption to routine during this process</p>
+                        <p> this is the tactical aspect of moving responsibility for managing payroll from the original in-house professional to <strong><em>BPIT</em></strong> that it should be minimal disruption to routine during this process</p>
                        
                     </div>
                      <div class="tab-pane fade" id="service-5">
@@ -227,21 +227,21 @@
                         <div class="row">
                             <div class="col-md-4 " style="border-left: thick solid #ffbb33;" >
                                <h4>Bangkok Branch : Please Contact </h4>
-                                 <p>Khun Sopida </p><p> Mobile : +66(81) 510 – 8853 <br>
-                                 Office : +66(2) 434 3195 – 7 <br> 
+                                 <p>Khun Sopida </p><p> Mobile : +66 (81) 510 8853 <br>
+                                 Office : +66 (2) 434 3195 – 7 <br> 
                                  E-mail : sopida_s@bpit.co.th </p>
                             </div>
                             <div class="col-md-4" style="border-left: thick solid #00C851;">
                                 <h4>Pattaya Branch : Please Contact </h4>
                                 <p>
-                            Khun On-uma</p> <p> Mobile : +66(87) 080 – 9101<br> Office : +66(38) 416 975 – 7<br> E-mail : on-uma_s@bpit.co.th
+                            Khun On-uma</p> <p> Mobile : +66 (87) 080 – 9101<br> Office : +66 (38) 416 975 – 7<br> E-mail : on-uma_s@bpit.co.th
                         </p>
 
                             </div>
                             <div class="col-md-4" style="border-left: thick solid #33b5e5;">
                                  <h4>Chonburi : Please Contact </h4>
                                   <p>
-                            Khun Niramol</p><p> Mobile : +66(98) 978 – 7178 <br>Office :  +66(38) 458 925 – 7 <br>E-mail : niramol_p@bpit.co.th
+                            Khun Niramol</p><p> Mobile : +66 (98) 978 – 7178 <br>Office :  +66(38) 458 925 – 7 <br>E-mail : niramol_p@bpit.co.th
                         </p>
                             </div>
                         </div>

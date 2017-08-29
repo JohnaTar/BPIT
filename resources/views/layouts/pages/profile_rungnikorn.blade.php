@@ -359,6 +359,18 @@
                 </ol>
             </div>
         </div>
+        <div class="row english">
+            <div class="col-lg-12">
+                <h1 class="page-header"> Profile of Ajarn Rungnikorn
+                 
+                </h1>
+                <ol class="breadcrumb">
+                    <li><a href="{{url('home')}}">Home</a>
+                    </li>
+                    <li class="active">Profile of Ajarn Rungnikorn</li>
+                </ol>
+            </div>
+        </div>
          
       <div class="row spanish">
         <div class="col-md-12">
@@ -397,7 +409,7 @@
                 </div>
                 <div class="timeline">
                     <div class="timeline-content">
-                        <div class="circle"><span><i class="fa fa-briefcase"></i></span></div>
+                         <img class="circle" src="images/pmai/2.png" >
                         <div class="content">
                             <span class="year">ประสบการณ์ทำงาน</span>
                             <h4 class="title"></h4>
@@ -405,7 +417,7 @@
                               <strong>อดีตผู้จัดการทั่วไป – บริษัท อาเจไทย จำกัด</strong> : ผลิตและจำหน่ายน้ำอัดลม “อาเจบิ๊ก โคล่า” <br>
                               <strong>อดีตผู้จัดการทั่วไป – บริษัท รอยัลฟู้ดส์ เซอร์วิส (ประเทศไทย) จำกัด</strong> : ผลิตและจำหน่ายดังกิ้นโดนัท และเบเกอรี่ “โอปองแปง” <br>
                               <strong>อดีตกรรมการบริหารและผู้อำนวยการสำนักบริหารทรัพยากรบุคคลกลาง</strong> : กลุ่มบริษัท สุรพลฟูดส์ จำกัด (มหาชน) <br>
-                              <strong>อดีต : ผู้อำนวยการฝ่ายทรัพยากรบุคคล</strong> : บริษัท ไทยคอปเปอร์ อินดัสตรี จำกัด (มหาชน)
+                              <strong>อดีตผู้อำนวยการฝ่ายทรัพยากรบุคคล</strong> : บริษัท ไทยคอปเปอร์ อินดัสตรี จำกัด (มหาชน)
                             </p>
                             <div class="icon"><span></span></div>
                         </div>
@@ -413,7 +425,7 @@
                 </div>
                 <div class="timeline">
                     <div class="timeline-content">
-                        <div class="circle"><span><i class="fa fa-briefcase"></i></span></div>
+                        <img class="circle" src="images/pmai/3.png" >
                         <div class="content">
                             <span class="year">งานด้านสังคม</span>
                             <h4 class="title"></h4>
@@ -428,7 +440,7 @@
                 </div>
                 <div class="timeline">
                     <div class="timeline-content">
-                         <img class="circle" src="images/training/tr6.png" >
+                          <img class="circle" src="images/training/tr6.png" >
                         <div class="content">
                             <span class="year">ที่ปรึกษาภาครัฐ (บางส่วน)</span>
                             <h4 class="title"></h4>
@@ -447,7 +459,7 @@
                 </div>
                          <div class="timeline">
                     <div class="timeline-content">
-                        <div class="circle"><span><i class="fa fa-briefcase"></i></span></div>
+                       <img class="circle" src="images/pmai/4.png" >
                         <div class="content">
                             <span class="year">ที่ปรึกษาภาครัฐ (บางส่วน)</span>
                             <h4 class="title"></h4>
@@ -464,7 +476,7 @@
                 </div>
                  <div class="timeline">
                     <div class="timeline-content">
-                       <img class="circle" src="images/training/tr1.png" >
+                       <img class="circle" src="images/pmai/1.png" >
                         <div class="content">
                             <span class="year">ที่ปรึกษาภาคเอกชน (บางส่วน)</span>
                             <h4 class="title"></h4>
@@ -480,7 +492,7 @@
                 </div>
    <div class="timeline">
                     <div class="timeline-content">
-                        <div class="circle"><span><i class="fa fa-briefcase"></i></span></div>
+                        <img class="circle" src="images/pmai/5.png" >
                         <div class="content">
                             <span class="year">ที่ปรึกษาภาคเอกชน(บางส่วน)</span>
                             <h4 class="title"></h4>
@@ -496,7 +508,7 @@
                 </div>
 <div class="timeline">
                     <div class="timeline-content">
-                        <div class="circle"><span><i class="fa fa-briefcase"></i></span></div>
+                       <img class="circle" src="images/pmai/6.png" >
                         <div class="content">
                             <span class="year">หัวข้อการบรรยาย</span>
                             <h4 class="title"></h4>
@@ -518,7 +530,7 @@
                 </div>
   <div class="timeline">
                     <div class="timeline-content">
-                        <div class="circle"><span><i class="fa fa-briefcase"></i></span></div>
+                        <img class="circle" src="images/pmai/9.png" >
                         <div class="content">
                             <span class="year">หัวข้อการบรรยาย</span>
                             <h4 class="title"></h4>
@@ -538,7 +550,7 @@
                 </div>
   <div class="timeline">
                     <div class="timeline-content">
-                        <div class="circle"><span><i class="fa fa-briefcase"></i></span></div>
+                        <img class="circle" src="images/pmai/7.png" >
                         <div class="content">
                             <span class="year">หัวข้อการบรรยาย</span>
                             <h4 class="title"></h4>
@@ -559,7 +571,7 @@
   
 <div class="timeline">
                     <div class="timeline-content">
-                        <div class="circle"><span><i class="fa fa-briefcase"></i></span></div>
+                        <img class="circle" src="images/pmai/8.png" >
                         <div class="content">
                             <span class="year">องค์กรที่เคยไปบรรยาย</span>
                             <h4 class="title"></h4>
@@ -580,7 +592,7 @@
   
 <div class="timeline">
                     <div class="timeline-content">
-                        <div class="circle"><span><i class="fa fa-briefcase"></i></span></div>
+                    <img class="circle" src="images/pmai/10.png" >
                         <div class="content">
                             <span class="year">องค์กรที่เคยไปบรรยาย</span>
                             <h4 class="title"></h4>
@@ -599,7 +611,7 @@
   
 <div class="timeline">
                     <div class="timeline-content">
-                        <div class="circle"><span><i class="fa fa-briefcase"></i></span></div>
+                       <img class="circle" src="images/pmai/11.png" >
                         <div class="content">
                             <span class="year">องค์กรที่เคยไปบรรยาย</span>
                             <h4 class="title"></h4>
@@ -619,7 +631,7 @@
                 </div>
                 <div class="timeline">
                     <div class="timeline-content">
-                        <div class="circle"><span><i class="fa fa-briefcase"></i></span></div>
+                        <img class="circle" src="images/pmai/12.png" >
                         <div class="content">
                             <span class="year">องค์กรที่เคยไปบรรยาย</span>
                             <h4 class="title"></h4>
@@ -650,7 +662,298 @@
         </div> <!-- col -->
     </div> <!-- row -->
 
-        
+        <!-- ##################english########################## -->
+
+         <div class="row english">
+        <div class="col-md-12">
+            <div class="main-timeline">
+                <div class="timeline">
+                    <div class="timeline-content">
+                       <img class="circle" src="images/pmai/pmai.JPG" >
+                        <div class="content">
+                            <span class="year">Profile  </span>
+                            <h4 class="title">Ajarn Rungnikorn</h4>
+                            <p class="description">
+                            <strong>Born on</strong>  October 12, 1966 <br>
+                              <strong>High School</strong> - Udonpittayanukoon School, Udonthani, Thailand <br>
+                              <strong>Bachelor’s Degree  </strong> - Law; Thammasat University, Bangkok, Thailand<br>
+                              <strong>Mini-MBA</strong> - Burapha University, Chonburi, Thailand<br>
+                              <strong>Master’s Degree</strong> - Labor & Welfare Development; Thammasat University, Thailand
+                            </p>
+                            <div class="icon"><span></span></div>
+                        </div>
+                    </div>
+                </div>
+                <div class="timeline">
+                    <div class="timeline-content">
+                  <img class="circle" src="images/companny/h2.jpg" >
+                        <div class="content">
+                            <span class="year">Current Position</span>
+                            <h4 class="title"></h4>
+                            <p class="description">
+                               <strong>Managing Director</strong>: BPIT Holdings Co.,Ltd <br>
+                          <strong>Part-time Lecturer for Bachelor’s  degree and Master’s degree</strong>: Thammasat University/ Kasetsart University – Thailand<br>
+                        <strong>Freelance Consultant </strong>: to both private and public sectors with focus on management, HR and sales
+                            </p>
+                            <div class="icon"><span></span></div>
+                        </div>
+                    </div>
+                </div>
+                <div class="timeline">
+                    <div class="timeline-content">
+                        <img class="circle" src="images/pmai/2.png" >
+                        <div class="content">
+                            <span class="year">Work Experience</span>
+                            <h4 class="title"></h4>
+                            <p class="description">
+                              <strong>Ex-General Manager – Ajethai Co.,Ltd</strong> : Soft drink manufacturer & distributor under brand name “Big Cola” <br>
+                              <strong>Ex-General Manager – Royal Food Service (Thailand) Co.,Ltd</strong> : Food services – Dunkin’ Donut and Au Pon Pain Bakery Shop <br>
+                              <strong>Ex-Executive Director & Human Resources Director/ Surapon Foods Public Co.,Ltd</strong> : Frozen Seafood Manufacturer & Exporter <br>
+                           
+                            </p>
+                            <div class="icon"><span></span></div>
+                        </div>
+                    </div>
+                </div>
+                <div class="timeline">
+                    <div class="timeline-content">
+                         <img class="circle" src="images/pmai/3.png" >
+                        <div class="content">
+                            <span class="year">Social Services</span>
+                            <h4 class="title"></h4>
+                            <p class="description">
+                         Former : A member of Labor Management Committee – The Federation of Thai Industries <br>
+                         <strong> The founder of Modern Personnel Club </strong>(area of Petchakasem Road, BKK) <br>
+                         <strong>The founder of Bangkok Personnel Club (BPM)</strong>
+                            </p>
+                            <div class="icon"><span></span></div>
+                        </div>
+                    </div>
+                </div>
+                <div class="timeline">
+                    <div class="timeline-content">
+                         <img class="circle" src="images/training/tr6.png" >
+                        <div class="content">
+                            <span class="year">Consulting Experience</span>
+                            <h4 class="title">State Enterprise</h4>
+                            <p class="description">
+                                <strong>Liquor Distillery Organization Excise Department</strong> <br>
+                                  <i class="fa fa-check" aria-hidden="true"></i> : Manpow Planning and Orgnization Department<br>
+                                  <i class="fa fa-check" aria-hidden="true"></i> : KPIs<br>
+                                  <i class="fa fa-check" aria-hidden="true"></i> : Core Competency<br>
+                                  <i class="fa fa-check" aria-hidden="true"></i> : Functional Compentency<br>
+                                  <i class="fa fa-check" aria-hidden="true"></i> : Salary Structure<br>
+                                  <i class="fa fa-check" aria-hidden="true"></i> : Training roadmap
+                            </p>
+                            <div class="icon"><span></span></div>
+                        </div>
+                    </div>
+                </div>
+                         <div class="timeline">
+                    <div class="timeline-content">
+                                  <img class="circle" src="images/pmai/4.png" >
+                        <div class="content">
+                            <span class="year">Consulting Experience </span>
+                            <h4 class="title">State Enterprise</h4>
+                            <p class="description">
+                                <strong>Software Industry Promotion Agency (Public Organization) – Thailand</strong> : SiPA – Corporate Strategic Plan and KPIs (Corporate Objectives/ Functional KPIs/ Individual KPIs for all staffs) **SiPA’s Corporate Plan got the perfect score of 5 from TRIS Rating Co.,Ltd (Thai’s Government had hired TRIS to make performance rating for all government departments & agencies) <br>
+                              <strong>Public Warehouse Organization; The Ministry of Commerce - Thailand </strong> <br>
+                               <i class="fa fa-check" aria-hidden="true"></i> : Functional Competency for all Staffs<br>
+                               <i class="fa fa-check" aria-hidden="true"></i> : Corporate Strategic Plan and Corporate Action Plan
+
+                            </p>
+                            <div class="icon"><span></span></div>
+                        </div>
+                    </div>
+                </div>
+                 <div class="timeline">
+                    <div class="timeline-content">
+                       <img class="circle" src="images/pmai/1.png" >
+                        <div class="content">
+                            <span class="year">Consulting Experience</span>
+                            <h4 class="title">Private Sector</h4>
+                            <p class="description">
+                                <strong>TIPCO Foods Public Co.,Ltd </strong> : Penetration into Traditional Trade Channel <br>
+                                <strong>Kangzen Kenko Co.,Ltd (MLM Business)</strong> : Business Plan base on Management by Objectives (MBO) Concept <br>
+                                <strong>NIFCO (Thailand) Co.,Ltd</strong> : a Japanese auto parts manufacturer/ located at Amata Nakorn Industrial Estate – Chonburi, Thailand) – Project <br>
+
+                            </p>
+                            <div class="icon"><span></span></div>
+                        </div>
+                    </div>
+                </div>
+   <div class="timeline">
+                    <div class="timeline-content">
+                                  <img class="circle" src="images/pmai/5.png" >
+                        <div class="content">
+                            <span class="year">Consulting Experience</span>
+                            <h4 class="title">Private Sector</h4>
+                            <p class="description">
+                                <strong>Bangkok Glass Public Co.,Ltd</strong> : Glass & plastic bottle manufacturer – Review Job Description and Job Specification of all positions <br>
+                                <strong>Sahadharawat Co.,Ltd </strong>Can Manufacturer : HR Competency/ Career Path/ Salary Structure/ Performance Measuring System <br>
+                                <strong>Narai Superbag Co.,Ltd</strong> : Paper bags and packaging manufacturer – Review all areas of HR <br>
+
+                            </p>
+                            <div class="icon"><span></span></div>
+                        </div>
+                    </div>
+                </div>
+<div class="timeline">
+                    <div class="timeline-content">
+                      <img class="circle" src="images/pmai/6.png" >
+                        <div class="content">
+                            <span class="year">Training Instructor Experience</span>
+                            <h4 class="title"></h4>
+                            <p class="description">
+                                <i class="fa fa-check" aria-hidden="true"></i> : Creating Corporate Strategic Plan<br>
+                                 <i class="fa fa-check" aria-hidden="true"></i> : Workshop – Setting KPIs<br>
+                <i class="fa fa-check" aria-hidden="true"></i> : Workshop – Setting Balanced Scorecard for managing Firm’s Performance<br>
+                 <i class="fa fa-check" aria-hidden="true"></i> : Workshop – Making Action Plan<br>
+                  <i class="fa fa-check" aria-hidden="true"></i> : Creating an Effective Business Plan base on MBO Concept (Management by Objectives)<br>
+                   <i class="fa fa-check" aria-hidden="true"></i> : Effective Planning<br>
+                    <i class="fa fa-check" aria-hidden="true"></i> : Selling Technique/ Professional Salesman<br>
+                     <i class="fa fa-check" aria-hidden="true"></i> : Basic Costs Reduction in Factory
+                
+
+                            </p>
+                            <div class="icon"><span></span></div>
+                        </div>
+                    </div>
+                </div>
+  <div class="timeline">
+                    <div class="timeline-content">
+                        <img class="circle" src="images/pmai/9.png" >
+                        <div class="content">
+                            <span class="year">Training Instructor Experience</span>
+                            <h4 class="title"></h4>
+                            <p class="description">
+                              <i class="fa fa-check" aria-hidden="true"></i> : 5S<br>
+                       <i class="fa fa-check" aria-hidden="true"></i> : Advance 5S (create 5S standard for all working areas and 5S audit processes)<br>
+                        <i class="fa fa-check" aria-hidden="true"></i> : Workshop – Enhance Leadership Skills<br>
+                         <i class="fa fa-check" aria-hidden="true"></i> : Team Building by Group Activities  <br>
+                          <i class="fa fa-check" aria-hidden="true"></i> : Walk Rally<br>
+                          <i class="fa fa-check" aria-hidden="true"></i> : Workshop – Professional Coaching<br>
+                          <i class="fa fa-check" aria-hidden="true"></i> : HR Management for Non-HR Manager<br>
+   
+                            </p>
+                            <div class="icon"><span></span></div>
+                        </div>
+                    </div>
+                </div>
+  <div class="timeline">
+                    <div class="timeline-content">
+                          <img class="circle" src="images/pmai/7.png" >
+                        <div class="content">
+                            <span class="year">Training Instructor Experience</span>
+                            <h4 class="title"></h4>
+                            <p class="description">
+                         <i class="fa fa-check" aria-hidden="true"></i> : Writing an Effective Job Description<br>
+                          <i class="fa fa-check" aria-hidden="true"></i> : Labor Laws for Supervisors & Managers<br>
+                          <i class="fa fa-check" aria-hidden="true"></i> : Writing an Effective Job Description<br>
+                          <i class="fa fa-check" aria-hidden="true"></i> : Proactive Labor Relations Management<br>
+                          <i class="fa fa-check" aria-hidden="true"></i> : Workshop – Creating a Competitive Salary Structure<br>
+                            <i class="fa fa-check" aria-hidden="true"></i> : Workshop – Creating Competency-based HR System<br>
+                              <i class="fa fa-check" aria-hidden="true"></i> : Etc.<br>
+           
+                            </p>
+                            <div class="icon"><span></span></div>
+                        </div>
+                    </div>
+                </div>
+  
+<div class="timeline">
+                    <div class="timeline-content">
+                         <img class="circle" src="images/pmai/8.png" >
+                        <div class="content">
+                            <span class="year">Lists of some Clients</span>
+                            <h4 class="title"></h4>
+                            <p class="description">
+                         The Siam Cement Group (SCG)<br>
+                         PTT Mart Co.,Ltd (Retailer)<br>
+                        Electricity Generating Authority of Thailand - EGAT<br>
+                       Thai Airways Public Co.,Ltd<br>
+                       Disit Thani Hotel Group<br>
+                          Smooth-E Co.,Ltd ; cosmetics<br>
+                         Professional Salesman Course for Nationwide Isuzu Dealers<br>
+
+                            </p>
+                            <div class="icon"><span></span></div>
+                        </div>
+                    </div>
+                </div>
+  
+<div class="timeline">
+                    <div class="timeline-content">
+                        <img class="circle" src="images/pmai/10.png" >
+                        <div class="content">
+                            <span class="year">Lists of some Clients</span>
+                            <h4 class="title"></h4>
+                            <p class="description">
+                         T.C. Union Global Public Co.,Ltd<br>
+                         Daikin Airconditioning (Thailand) Co.,Ltd<br>  
+                         Thai-German Products Public Co.,Ltd; stainless steel fabrication<br>
+                        King Pack Industrial Co.,Ltd; plastic bag manufacturer<br>
+                       Asian Marine Services Public Co.,Ltd; shipbuilding, ship repair<br>
+                        Bureau Veritas Thailand Co.,Ltd – BVQI; conformity assessment and certification services<br>
+                            </p>
+                            <div class="icon"><span></span></div>
+                        </div>
+                    </div>
+                </div>
+  
+<div class="timeline">
+                    <div class="timeline-content">
+                        <img class="circle" src="images/pmai/11.png" >
+                        <div class="content">
+                            <span class="year">Lists of some Clients</span>
+                            <h4 class="title"></h4>
+                            <p class="description">
+                       Tuntex Petrochemicals (Thailand) Public Co.,Ltd<br>  
+                       Dreamteam (Thailand) Public Co.,Ltd; MLM Business<br>
+                       Riken (Thailand) Co.,Ltd; PVC Compound manufacturer<br>
+                       MCC Sitthiphol Co.,Ltd; car assembly<br>
+                       C.C. Auto Parts Co.,Ltd<br>
+                      Greater Pharma Co.,Ltd; pharmaceutical manufacturer<br>
+                       Kendall-Grammatron Co.,Ltd; physicians’ & surgeons’ equipment & supplies manufacturer<br>
+           
+                            </p>
+                            <div class="icon"><span></span></div>
+                        </div>
+                    </div>
+                </div>
+                <div class="timeline">
+                    <div class="timeline-content">
+                        <img class="circle" src="images/pmai/12.png" >
+                        <div class="content">
+                            <span class="year">Lists of some Clients</span>
+                            <h4 class="title"></h4>
+                            <p class="description">
+                     Saim Industrial Corporation Co.,Ltd; trading of heavy lifting equipments<br>  
+                     P.S.T. Transport Co.,Ltd; logistics<br>
+                       Neastern Industry Co.,Ltd; wood furniture manufacturer<br>
+                      R.S. Cannery Co.,Ltd; Tuna -canned<br>
+                       Kaset Rung ruang Group (Phanom Sarakham Factory)<br>
+                    Unity Steel Co.,Ltd; trading of steel rod<br>
+                       
+           
+                            </p>
+                            <div class="icon"><span></span></div>
+                        </div>
+                    </div>
+                </div>
+  
+
+
+
+
+
+
+
+
+            </div> <!-- main -->
+        </div> <!-- col -->
+    </div> <!-- row -->
+
 
         <hr>
 

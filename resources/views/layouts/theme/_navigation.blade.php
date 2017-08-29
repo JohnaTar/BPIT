@@ -15,7 +15,7 @@
                       <a href="{{url('home')}}">บริษัท บีพีไอที โฮลดิ้งส์ จำกัด</a>
                </div>
                  <div class="english">
-                      <a href="{{url('home')}}">BPIT Holdings Co.,Ltd</a>
+                      <a href="{{url('home')}}"> <em> BPIT</em>  Holdings Co.,Ltd</a>
                </div>
             </div>
             <!-- Collect the nav links, forms, and other content for toggling -->
@@ -74,7 +74,7 @@
                         <a href="#" class="dropdown-toggle" data-toggle="dropdown">Our Services <b class="caret"></b></a>
                         <ul class="dropdown-menu">
                             <li>
-                                <a href="{{ url('executive_search')}}">Recuitment Search</a>
+                                <a href="{{ url('executive_search')}}">Recruitment Service</a>
                             </li>
                             <li>
                                 <a href="{{url('/staff_outsourcing')}}">Staff & Labor Outsourcing</a>
@@ -83,7 +83,7 @@
                                 <a href="{{url('/inhouse_training')}}">In-house Training</a>
                             </li>
                             <li>
-                                <a href="{{url('payrolling_service')}}">Payrolling Outsourcing</a>
+                                <a href="{{url('payrolling_service')}}">Payroll Outsourcing</a>
                             </li>
                               <li>
                                 <a href="{{url('business_consulting')}}">HR & Business Consulting</a>

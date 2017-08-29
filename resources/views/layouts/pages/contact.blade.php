@@ -6,7 +6,7 @@
         <div class="row spanish">
             <div class="col-lg-12">
                 <h1 class="page-header">ติดต่อเรา
-                    <small>บริษัท บีพีไอที โฮลดิ้งส์ จำกัด (BPIT)</small>
+                    <small>บริษัท บีพีไอที โฮลดิ้งส์ จำกัด <em>(BPIT)</em></small>
                 </h1>
                 <ol class="breadcrumb">
                     <li><a href="{{url('home')}}">หน้าแรก</a>
@@ -18,7 +18,7 @@
          <div class="row english">
             <div class="col-lg-12">
                 <h1 class="page-header">Contact US
-                    <small>BPIT Holdings Co,.Ltd</small>
+                    <small> <em> BPIT </em> Holdings Co,.Ltd</small>
                 </h1>
                 <ol class="breadcrumb">
                     <li><a href="{{url('home')}}">Home</a>
@@ -76,9 +76,9 @@
                  
                 </p>
                 <p><i class="fa fa-phone"></i> 
-                    <abbr title="Phone">P</abbr>: +66(2) 434-3195-7</p>
+                    <abbr title="Phone">P</abbr>: +66 (2) 434 3195-7</p>
                  <p><i class="fa fa-fax"></i> 
-                    <abbr title="Fax">F</abbr>: +66(2) 435-6469</p>
+                    <abbr title="Fax">F</abbr>: +66 (2) 435 6469</p>
                 <p><i class="fa fa-envelope-o"></i> 
                     <abbr title="Email">E</abbr>: <a href="mailto:nattida_k@bpit.co.th">nattida_k@bpit.co.th</a>
                 </p>
@@ -151,9 +151,9 @@
                 
                 </p>
                 <p><i class="fa fa-phone"></i> 
-                    <abbr title="Phone">P</abbr>: +66(38) 416-975-7</p>
+                    <abbr title="Phone">P</abbr>: +66 (38) 416 975-7</p>
                  <p><i class="fa fa-fax"></i> 
-                    <abbr title="Fax">F</abbr>: +66(38) 416-978 </p>
+                    <abbr title="Fax">F</abbr>: +66 (38) 416 978 </p>
                 <p><i class="fa fa-envelope-o"></i> 
                     <abbr title="Email">E</abbr>: <a href="mailto:chamaiporn_b@bpit.co.th">chamaiporn_b@bpit.co.th</a>
                 </p>
@@ -223,9 +223,9 @@
                 
                 </p>
                 <p><i class="fa fa-phone"></i> 
-                    <abbr title="Phone">P</abbr>: +66(38) 458-925-6</p>
+                    <abbr title="Phone">P</abbr>: +66 (38) 458 925-6</p>
                  <p><i class="fa fa-fax"></i> 
-                    <abbr title="Fax">F</abbr>: +66(38) 458-927  </p>
+                    <abbr title="Fax">F</abbr>: +66 (38) 458 927  </p>
                 <p><i class="fa fa-envelope-o"></i> 
                     <abbr title="Email">E</abbr>: <a href="mailto:ritaydee_r@bpit.co.th">niramol_p@bpit.co.th</a>
                 </p>

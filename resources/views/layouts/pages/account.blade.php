@@ -37,7 +37,7 @@
             </div>
             <div class="col-md-6 spanish">
                 <h2><i class="fa fa-building" aria-hidden="true" style="color:grey;" ></i> : บริษัท บีพีไอที โฮลดิ้งส์ จำกัด </h2>
-                <p><strong>BPIT</strong> ให้บริการจัดทำบัญชีให้แก่ลูกค้าด้วยความถูกต้องและตรงต่อเวลาโดยเจ้าหน้าที่บัญชีที่ขึ้นทะเบียนเป็นผู้จัดทำบัญชีอย่างถูกต้องแล้ว ดังนั้น ลูกค้าสามารถมั่นใจว่าจะได้รับรายงานรายละเอียดทางการเงินและบัญชีที่ดีอันจะทำให้ธุรกิจของท่านมีประสิทธิภาพมากยิ่งขึ้น ทั้งนี้ <strong>BPIT</strong> มีบริการด้านบัญชี ดังต่อไปนี้ คือ
+                <p><strong><em>BPIT</em></strong> ให้บริการจัดทำบัญชีให้แก่ลูกค้าด้วยความถูกต้องและตรงต่อเวลาโดยเจ้าหน้าที่บัญชีที่ขึ้นทะเบียนเป็นผู้จัดทำบัญชีอย่างถูกต้องแล้ว ดังนั้น ลูกค้าสามารถมั่นใจว่าจะได้รับรายงานรายละเอียดทางการเงินและบัญชีที่ดีอันจะทำให้ธุรกิจของท่านมีประสิทธิภาพมากยิ่งขึ้น ทั้งนี้ <strong><em>BPIT</em></strong> มีบริการด้านบัญชี ดังต่อไปนี้ คือ
                 </p>
                  <p><i class="fa fa-check-square-o" style="color:green;" aria-hidden="true"></i> : ให้คำปรึกษาเกี่ยวกับการบัญชีและภาษีทั้งหมด ตั้งแต่วางระบบบัญชี การจัดเตรียมเอกสารที่ต้องนำส่งต่อกรมสรรพากรทั้งสิ้น</p>
                  <p><i class="fa fa-check-square-o" style="color:green;" aria-hidden="true"></i> : จัดทำสมุดรายวัน, สมุดบัญชีแยกประเภท</p>
@@ -53,8 +53,8 @@
               
             </div>
                <div class="col-md-6 english">
-                <h2><i class="fa fa-building" aria-hidden="true" style="color:grey;" ></i> : BPIT Holdings Co,.Ltd</h2>
-                <p><strong>BPIT</strong> provides financial information to our clients in a timely and accurate manner by our Certified CPD Professional Staffs. Clients will get well-organized financial records to ensure that your business operations will run more efficiently. <strong> BPIT </strong>provides a full range of cost effective accounting services including the following:
+                <h2><i class="fa fa-building" aria-hidden="true" style="color:grey;" ></i> : <strong><em>BPIT</em></strong> Holdings Co,.Ltd</h2>
+                <p><strong><em>BPIT</em></strong> provides financial information to our clients in a timely and accurate manner by our Certified CPD Professional Staffs. Clients will get well-organized financial records to ensure that your business operations will run more efficiently.<strong><em>BPIT</em></strong>provides a full range of cost effective accounting services including the following:
                 </p>
                  <p><i class="fa fa-check-square-o" style="color:green;" aria-hidden="true"></i> : Accounting and tax consulting, covering from setting up new accounting system to filing report to legal units</p>
                  <p><i class="fa fa-check-square-o" style="color:green;" aria-hidden="true"></i> : Preparation of accounting journals, general ledgers</p>
@@ -77,11 +77,11 @@
                  <h3><i class="fa fa-check" style="color:green;" aria-hidden="true"></i> : จุดเด่นของเรา</h3>
                 
                 <p>
-                    <i class="fa fa-check-square-o" aria-hidden="true"></i> : <strong>BPIT : ได้รับการรับรอง ISO9001   </strong><br>
-                    <i class="fa fa-check-square-o" aria-hidden="true"></i> : <strong>BPIT เปิดดำเนินการมานานกว่า 10 ปี </strong>
+                    <i class="fa fa-check-square-o" aria-hidden="true"></i> : <strong><em>BPIT</em> : ได้รับการรับรอง ISO9001   </strong><br>
+                    <i class="fa fa-check-square-o" aria-hidden="true"></i> : <strong><em> BPIT</em> เปิดดำเนินการมานานกว่า 10 ปี </strong>
                     <br>
                      <i class="fa fa-check-square-o" aria-hidden="true"></i> : 
-                        <strong> BPIT มีสำนักงานอยู่ในย่านธุรกิจ (ปิ่นเกล้า) สะดวกต่อการติดต่อ  
+                        <strong> <em> BPIT </em> มีสำนักงานอยู่ในย่านธุรกิจ (ปิ่นเกล้า) สะดวกต่อการติดต่อ  
                          </strong>
                     <br>
                      <h3><i class="fa fa-mobile fa-2x " style="color:#5bc0de;" aria-hidden="true"></i> : รายละเอียดเพิ่มเติม</h3>
@@ -97,11 +97,11 @@
                  <h3><i class="fa fa-check" style="color:green;" aria-hidden="true"></i> : Why us?</h3>
                 
                 <p>
-                    <i class="fa fa-check-square-o" aria-hidden="true"></i> : <strong>BPIT : ISO9001 certified   </strong><br>
-                    <i class="fa fa-check-square-o" aria-hidden="true"></i> : <strong>BPIT : >10 years running the business </strong>
+                    <i class="fa fa-check-square-o" aria-hidden="true"></i> : <strong><em> BPIT </em> : ISO9001 certified   </strong><br>
+                    <i class="fa fa-check-square-o" aria-hidden="true"></i> : <strong><em> BPIT </em> : >10 years running the business </strong>
                     <br>
                      <i class="fa fa-check-square-o" aria-hidden="true"></i> : 
-                        <strong> BPIT’s headquarter is easy to find as it’s located in business area (Pinklao)   
+                        <strong> <em> BPIT </em>’s headquarter is easy to find as it’s located in business area (Pinklao)   
                          </strong>
                     <br>
                      <h3><i class="fa fa-mobile fa-2x " style="color:#5bc0de;" aria-hidden="true"></i> : For more information, please contact</h3>
